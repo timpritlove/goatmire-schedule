@@ -1,0 +1,1832 @@
+{
+ "event": "Goatmire Elixir & NervesConf EU 2026",
+ "site": "https://2026.goatmire.com",
+ "timezone": "Europe/Stockholm",
+ "updated": "2026-09-30T12:58:35Z",
+ "days": [
+  {
+   "date": "2026-09-28",
+   "rooms": [
+    {
+     "id": "83581",
+     "name": "Techarenan"
+    },
+    {
+     "id": "83582",
+     "name": "Forsa"
+    },
+    {
+     "id": "83583",
+     "name": "Large hall"
+    },
+    {
+     "id": "83584",
+     "name": "Smaller hall"
+    }
+   ],
+   "sessions": [
+    {
+     "id": "1203262",
+     "service": false,
+     "title": "Multimedia with Membrane 101",
+     "room": "83581",
+     "start": "08:00",
+     "end": "12:00",
+     "startUtc": "2026-09-28T06:00:00Z",
+     "endUtc": "2026-09-28T10:00:00Z",
+     "speakers": [
+      "ecc10311-ee74-4cb3-9202-3bb408933419",
+      "968fd679-28c2-492b-9792-8e2caf23a03b",
+      "1f191ef0-692a-4ab0-9a9f-3eca291441ec"
+     ],
+     "tags": [
+      "workshop"
+     ],
+     "description": "This course provides an introduction to multimedia processing in Elixir using the Membrane Framework. \n\nWe will:\n* cover most crucial multimedia concepts, such as codecs or containers\n* write various Membrane pipelines, to solve different multimedia problems\n* implement our own Membrane elements and link them with the ones already implemented in the Framework \n* discuss most popular live-streaming protocols and use them in our processing pipelines\n* familiarize with essential Membrane elements commonly found in production environments\n\nBy the end of the training, attendees will be equipped to build production-ready multimedia solutions from scratch, using both existing Membrane components and their own custom elements.\n\nPREREQUISITES: The attendees should be familiar with Elixir but do not need to have any prior experience with multimedia processing nor Membrane Framework.\n\nAttendees need a MacOS/Linux computer with a native media player (e.g. ffplay or VLC) installed.",
+     "url": "https://2026.goatmire.com/talk/multimedia-with-membrane-101"
+    },
+    {
+     "id": "1178849",
+     "service": false,
+     "title": "Nerves community hack session",
+     "room": "83582",
+     "start": "08:00",
+     "end": "12:00",
+     "startUtc": "2026-09-28T06:00:00Z",
+     "endUtc": "2026-09-28T10:00:00Z",
+     "speakers": [
+      "2138a8ac-fb0d-4ed4-9dcd-1aab06b10108",
+      "9b8bc7be-db0d-4fb0-b280-c7ab3b86a374"
+     ],
+     "tags": [
+      "workshop"
+     ],
+     "description": "We bring issues or ideas. You bring some Elixir skills and curiosity. Good moment to talk about projects, do a bit of show and tell.\n\nThis session might get more specific if we decide on a direction but right now the intent is to rub elbows, blink LEDs and hack together on stuff around Nerves.",
+     "url": "https://2026.goatmire.com/talk/nerves-community-hack-session"
+    },
+    {
+     "id": "1144261",
+     "service": false,
+     "title": "Introduction to Elixir",
+     "room": "83583",
+     "start": "08:00",
+     "end": "12:00",
+     "startUtc": "2026-09-28T06:00:00Z",
+     "endUtc": "2026-09-28T10:00:00Z",
+     "speakers": [
+      "4fdd79a8-a5df-420b-9c59-7cf8d95602eb",
+      "cb892b73-e772-4d15-9e75-7a16caefb06a"
+     ],
+     "tags": [
+      "workshop"
+     ],
+     "description": "Two of Elixir's best teachers step up to get you ready for Goatmire Elixir. Prolific author and professional trainer Bruce Tate teams up with omnipresent community problem solver Benjamin \"lostkobrakai\" Milde. This duo will give a one-of-a-kind session to get your started with Elixir.\n\n4 hours to get you rolling and ready to take advantage of the other workshops and help you enjoy the conference even more. Corporate-training grade instruction but fun.\n\nRequirements:\n\n- Programming knowledge, student, hobbyist or professional\n- Install an Elixir development environment (instructions coming)\n\nMore details to come.",
+     "url": "https://2026.goatmire.com/talk/introduction-to-elixir"
+    },
+    {
+     "id": "1144547",
+     "service": false,
+     "title": "Test-Driven Development",
+     "room": "83584",
+     "start": "08:00",
+     "end": "12:00",
+     "startUtc": "2026-09-28T06:00:00Z",
+     "endUtc": "2026-09-28T10:00:00Z",
+     "speakers": [
+      "55be53d2-74b2-493b-9c9c-a7819a34d159"
+     ],
+     "tags": [
+      "workshop"
+     ],
+     "description": "“There is never enough time to do it right, but there is always enough time to do it over.”\n\n~John W. Bergman\n\nTest Driven Development (TDD) is a powerful approach that yields better, less buggy code. So why isn't everyone doing it?\n\nIn this hands-on workshop, I'll explain what TDD is and why I think it's so good. We'll also try it out for ourselves, using real-life examples. You'll get to see how TDD makes writing great code simpler and gives you a safety net for when you have to make big changes to your code.\n\nWe'll explore how to plan tests, the role of refactoring in TDD, and the benefits of incremental software design. Working in pairs (or triplets) is actively encouraged. Grab your laptop, a language you're comfortable with, and let's go!",
+     "url": "https://2026.goatmire.com/talk/test-driven-development"
+    },
+    {
+     "id": "1226226",
+     "service": false,
+     "title": "Ash Demystified",
+     "room": "83581",
+     "start": "13:00",
+     "end": "17:00",
+     "startUtc": "2026-09-28T11:00:00Z",
+     "endUtc": "2026-09-28T15:00:00Z",
+     "speakers": [
+      "f854351f-591c-4a06-bd41-fa84cb3c8784",
+      "93a6417a-08b3-42cb-a11b-7bc6679a56f1"
+     ],
+     "tags": [
+      "workshop"
+     ],
+     "description": "Ever wondered why developers won't shut up about Ash? And why they swear it's made them dramatically more productive? This workshop is a ground-up introduction that pulls back the curtain on what makes the framework tick. Whether you're brand new or you've been shipping with Ash for a while, you'll walk away with a clearer view of Ash and the ecosystem and at least a few \"wait, it can do that?\" moments.",
+     "url": "https://2026.goatmire.com/talk/ash-demystified"
+    },
+    {
+     "id": "1144541",
+     "service": false,
+     "title": "Hardware hacking",
+     "room": "83582",
+     "start": "13:00",
+     "end": "17:00",
+     "startUtc": "2026-09-28T11:00:00Z",
+     "endUtc": "2026-09-28T15:00:00Z",
+     "speakers": [
+      "53b2a370-2071-4ec8-a5a4-b15832f0882c"
+     ],
+     "tags": [
+      "workshop"
+     ],
+     "description": "Hardware doesn't have to be so hard! This is a social hardware hacking event, primarily focusing on badges - you can hack on your 2026 Goatmire badge (powered by AtomVM), or if you have a Nerves badge from last year's event, feel free to bring that and hack on it instead!\n\nWe'll start off with an overview of the hardware, how it was designed, and jump into the details on how to upload code to your badge, add new pages, and more. It's open ended - bring your laptop, a USB-C cable, and some ideas!\n\nFor info on the badges, please see this post: https://bsky.app/profile/gworkman.bsky.social/post/3mvimkrmj5s2y\n\nMore info will be provided at the event!",
+     "url": "https://2026.goatmire.com/talk/hardware-hacking"
+    },
+    {
+     "id": "1206085",
+     "service": false,
+     "title": "Docker 101",
+     "room": "83583",
+     "start": "13:00",
+     "end": "17:00",
+     "startUtc": "2026-09-28T11:00:00Z",
+     "endUtc": "2026-09-28T15:00:00Z",
+     "speakers": [
+      "78f6a9bf-9130-427f-baa4-7fbed2a62b8b",
+      "6dc8eaaf-adc0-4ad1-8ff7-6d6bc20044f1"
+     ],
+     "tags": [
+      "workshop"
+     ],
+     "description": "In this hands-on workshop, we’ll use Docker to build reproducible environments that behave consistently across development, CI, and production.\n\nWe’ll focus on the fundamentals that matter in real-world workflows: how to build efficient Docker images, structure your build process, and integrate Docker into CI pipelines. We’ll also explore practical techniques to iterate quickly during development, including using aliases and tooling to streamline your workflow.\n\nBy the end, you’ll be able to build and run your applications in a consistent, reproducible way, and integrate Docker into your day-to-day development workflow.\n\nThe examples will use Elixir applications, but the patterns apply across any language or stack.",
+     "url": "https://2026.goatmire.com/talk/docker-101"
+    },
+    {
+     "id": "1177842",
+     "service": false,
+     "title": "The Tinkerer's Guide to Elixir Processes",
+     "room": "83584",
+     "start": "13:00",
+     "end": "17:00",
+     "startUtc": "2026-09-28T11:00:00Z",
+     "endUtc": "2026-09-28T15:00:00Z",
+     "speakers": [
+      "102634fe-0293-4d0c-b7a1-14498a9caa44"
+     ],
+     "tags": [
+      "workshop"
+     ],
+     "description": "Ever wondered what makes Elixir tick under the hood? In this hands-on introduction we crack open the BEAM and follow the natural path from spawning your first process all the way to building your own GenServer. Along the way you'll get a feel for message passing, stateful processes, and why \"let it crash\" is a feature, not a bug. By the end, the foundations of concurrent Elixir will feel solid — and you'll know exactly where to go next. Bring a laptop, a taste for concurrency, and an urge to tinker.",
+     "url": "https://2026.goatmire.com/talk/the-tinkerers-guide-to-elixir-processes"
+    }
+   ],
+   "label": "Workshops"
+  },
+  {
+   "date": "2026-09-29",
+   "rooms": [
+    {
+     "id": "83581",
+     "name": "Techarenan"
+    },
+    {
+     "id": "83582",
+     "name": "Forsa"
+    },
+    {
+     "id": "83583",
+     "name": "Large hall"
+    },
+    {
+     "id": "83584",
+     "name": "Smaller hall"
+    }
+   ],
+   "sessions": [
+    {
+     "id": "1205892",
+     "service": false,
+     "title": "AtomVM Is Real",
+     "room": "83581",
+     "start": "08:00",
+     "end": "12:00",
+     "startUtc": "2026-09-29T06:00:00Z",
+     "endUtc": "2026-09-29T10:00:00Z",
+     "speakers": [
+      "aec90945-a65f-458c-b1a8-bfe078a64aa3"
+     ],
+     "tags": [
+      "workshop"
+     ],
+     "description": "Running Elixir in just a few hundred kilobytes of memory may sound unbelievable. Or maybe you have already heard about AtomVM and want a chance to try it yourself.\n\nIn this workshop, we will go from fresh hardware to something real running on AtomVM. We will explore how to get started, what the development flow looks like, and how to build a first working project on constrained devices. The goal is to make AtomVM feel concrete, approachable, and fun.",
+     "url": "https://2026.goatmire.com/talk/atomvm-is-real"
+    },
+    {
+     "id": "1144535",
+     "service": false,
+     "title": "Nerves as your smartphone OS",
+     "room": "83582",
+     "start": "08:00",
+     "end": "12:00",
+     "startUtc": "2026-09-29T06:00:00Z",
+     "endUtc": "2026-09-29T10:00:00Z",
+     "speakers": [
+      "dde5d0e3-ce29-4b3c-b4e4-1bc0ae059423"
+     ],
+     "tags": [
+      "workshop"
+     ],
+     "description": "In this groundbreaking workshop we will have Fairphone 3 smartphones for every participant. You will get an Android phone running Nerves and the session is focused on a shared effort to hack new functionality this Nerves-based phone OS. And learn some stuff along the way.\n\nRun by Marc Lainez, who presented on the Nerves Car at Goatmire last year, you'll be in good hands as you explore what we can do with this device. Most IoT devices are lower end hardware with limited peripherals and capabilities. Smartphones are the exact opposite. They contain every capability under the sun and a battery at that.\n\nThis workshop will be something quite special and in the end you'll have custom device that lets you develop on it in Elixir that we all duly saved from the landfill.\n\nIf you know how to build stuff with Elixir you know how to do this. You don't need to know about reverse engineering phones or anything.\n\n(note: don't bring old phones to convert, developing a new Nerves system for a smartphone takes more time, unless they are a Fairphone 2 or Fairphone 3 in which case, why not :)\n\nRequirements: Install an Elixir working environment and the Nerves tooling. Instructions coming.",
+     "url": "https://2026.goatmire.com/talk/nerves-as-your-smartphone-os"
+    },
+    {
+     "id": "1178854",
+     "service": false,
+     "title": "Make some noise",
+     "room": "83583",
+     "start": "08:00",
+     "end": "12:00",
+     "startUtc": "2026-09-29T06:00:00Z",
+     "endUtc": "2026-09-29T10:00:00Z",
+     "speakers": [
+      "a14e65a5-7fc5-46b4-b15f-04aa6bbbbfa0"
+     ],
+     "tags": [
+      "workshop"
+     ],
+     "description": "More information to come.\n\nSam has taught kids to make music with Sonic Pi. Now he has Tau5. We believe in you.",
+     "url": "https://2026.goatmire.com/talk/make-some-noise"
+    },
+    {
+     "id": "1206086",
+     "service": false,
+     "title": "Terraform 101",
+     "room": "83584",
+     "start": "08:00",
+     "end": "12:00",
+     "startUtc": "2026-09-29T06:00:00Z",
+     "endUtc": "2026-09-29T10:00:00Z",
+     "speakers": [
+      "78f6a9bf-9130-427f-baa4-7fbed2a62b8b",
+      "6dc8eaaf-adc0-4ad1-8ff7-6d6bc20044f1"
+     ],
+     "tags": [
+      "workshop"
+     ],
+     "description": "Managing infrastructure manually doesn’t scale. Defining infrastructure as code allows teams to build, evolve, and operate systems in a consistent, reproducible way.\n\nIn this hands-on workshop, we’ll use Terraform to define and manage infrastructure through real-world workflows: how to structure projects, manage and reason about state, and safely plan and apply changes.\n\nWe’ll also explore how Terraform fits into CI pipelines, including how to validate, review, and apply infrastructure changes as part of a collaborative workflow.\n\nBy the end, you’ll be able to manage infrastructure through code, collaborate on changes, and integrate Terraform into your day-to-day development workflow.",
+     "url": "https://2026.goatmire.com/talk/terraform-101"
+    },
+    {
+     "id": "1203181",
+     "service": false,
+     "title": "Emerge & Solve - GUI and State in Elixir",
+     "room": "83581",
+     "start": "13:00",
+     "end": "17:00",
+     "startUtc": "2026-09-29T11:00:00Z",
+     "endUtc": "2026-09-29T15:00:00Z",
+     "speakers": [
+      "cb713244-4ece-4f15-b7ac-2f8579f01406"
+     ],
+     "tags": [
+      "workshop"
+     ],
+     "description": "Learn how to model the state of user interactions using Solve and how to declare GUIs with Emerge.\n\nThe first part is an introduction to Emerge and Solve through building a simple todo app. After that, we’ll work on your app ideas and develop them. The goal is to demystify as many “How do I do this?” scenarios as possible. By the end, you should leave with a good starting point for your app and an understanding of the framework so you can continue on your own.\n\nRequirements:\n- A laptop running Linux with Wayland, or macOS, with Elixir tooling installed. Windows with WSL can also work.\n- Basic understanding of Elixir syntax, including what modules, functions, processes, and messages are.\n\nOptional requirements:\n- To build a GUI for a Nerves device, bring a Nerves device with a touchscreen. A Nerves starter kit or Goatmire badge can also work, but interaction is limited to its input options.",
+     "url": "https://2026.goatmire.com/talk/emerge-solve-gui-and-state-in-elixir"
+    },
+    {
+     "id": "1151387",
+     "service": false,
+     "title": "Achieving Balance in the Workshop",
+     "room": "83582",
+     "start": "13:00",
+     "end": "17:00",
+     "startUtc": "2026-09-29T11:00:00Z",
+     "endUtc": "2026-09-29T15:00:00Z",
+     "speakers": [
+      "a644f74b-4673-4368-9915-7d64854bcad9"
+     ],
+     "tags": [
+      "20 min",
+      "40 min"
+     ],
+     "description": "Bunch o' people. Bunch o' robots. One room. Finding balance is a journey.\nIn this hands-on workshop, you'll assemble a balance bot from a custom carrier board built on the Nerves starter kit, then build a Phoenix app to drive it from your phone. We'll cover hardware assembly, Nerves fundamentals, and building a simple control interface.\nBy the end, your robot will stand on its own two wheels - at least briefly - and you'll leave with the bot and your own repo to continue the journey.",
+     "url": "https://2026.goatmire.com/talk/achieving-balance-in-the-workshop"
+    },
+    {
+     "id": "1190506",
+     "service": false,
+     "title": "Pragmatic AI engineering",
+     "room": "83583",
+     "start": "13:00",
+     "end": "17:00",
+     "startUtc": "2026-09-29T11:00:00Z",
+     "endUtc": "2026-09-29T15:00:00Z",
+     "speakers": [
+      "e8e6fdc6-f5ac-4402-b1f2-39b027c88e00"
+     ],
+     "tags": [
+      "workshop"
+     ],
+     "description": "As the world shifts towards AI engineering being the norm rather than the frontier we gather in this workshop to learn both from Oliver and from each other.\n\nOliver will prepare a curated journey from the age of copy pasting out of ChatGPTs  web UI, to the release of claude code, journeying through concepts such as Ralphing and Gas Town and into what Oliver believes is a healthy approach to using AI when developing software you get paid to deliver.\n\nWe will delve into what is hype and hyperbole and what is a hard kernel you can expect to carry over as the models and the various harnesses evolve. \n\nTopics such as using credo, self reinforcing bash scripts and core tools such as Tidewave will be covered in-depth. Life has changed a lot since we had to pump the context full of usage rules and tightly worded specs into what the models are capable of now. \n\nThis workshop is perfect both for the curious beginner and for the hardened AI engineer that want to use this as a forum to share experiences with eachother. There are still adherents to the idea of spec driven development even as Olivers belief in them lessening and all voices will be heard and respected. This is as much a forum as a workshop, however there will be a core of curated content intended to elevate people who are just starting to dip their toe into agentic development.\n\nAttending the workshop requires an active subscription with a coding agent provider like claude, openai codex, gemini cli or zai coder. The open weight models are quite affordable these days, so for the duration of the workshop you will probably get along with just $20 to one of the various providers out there. \n\nJose Valim has graciously agreed to sponsoring free Tidewave Pro for a week for all attendants of the workshop.",
+     "url": "https://2026.goatmire.com/talk/pragmatic-ai-engineering"
+    },
+    {
+     "id": "1144543",
+     "service": false,
+     "title": "Demystifying ML and AI",
+     "room": "83584",
+     "start": "13:00",
+     "end": "17:00",
+     "startUtc": "2026-09-29T11:00:00Z",
+     "endUtc": "2026-09-29T15:00:00Z",
+     "speakers": [
+      "225be731-514c-4458-b997-b864c141709b"
+     ],
+     "tags": [
+      "workshop"
+     ],
+     "description": "ML/AI is often presented as magic hidden behind frameworks and huge models. In this workshop, we will take the opposite approach: start from first principles and build up the core ideas step by step. \n\nWe’ll begin with simple models such as linear regression, then move into logits, optimization, and the basic building blocks that make learning possible. Using Elixir, Nx, and Axon, we’ll implement key pieces ourselves so the mechanics of training are not just theoretical, but something you can see and hack on directly.\n\nBy the end of the session, we will have gone from foundational concepts to a simple neural network capable of classifying images. The workshop is a mix of theory and hands-on coding, with the goal of making neural networks feel understandable, concrete, and buildable rather than mysterious.\n\nThis workshop is for people who want to understand what “learning” actually means in machine learning, and who enjoy learning by building.\n\nRequirements:\n\n- Basic programming knowledge\n- An Elixir development environment installed\n- Nx and Axon setup instructions will be provided\n- No prior machine learning background required",
+     "url": "https://2026.goatmire.com/talk/demystifying-ml-and-ai"
+    }
+   ],
+   "label": "Workshops"
+  },
+  {
+   "date": "2026-09-30",
+   "rooms": [
+    {
+     "id": "79792",
+     "name": "Varbergs Teater"
+    }
+   ],
+   "sessions": [
+    {
+     "id": "81f47218-c478-410a-b6a6-520a4b310778",
+     "service": true,
+     "title": "At the root of Yggdrasil",
+     "room": "79792",
+     "start": "09:00",
+     "end": "09:15",
+     "startUtc": "2026-09-30T07:00:00Z",
+     "endUtc": "2026-09-30T07:15:00Z",
+     "speakers": [],
+     "tags": [],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "1190500",
+     "service": false,
+     "title": "Texting Lora",
+     "room": "79792",
+     "start": "09:15",
+     "end": "09:55",
+     "startUtc": "2026-09-30T07:15:00Z",
+     "endUtc": "2026-09-30T07:55:00Z",
+     "speakers": [
+      "bf267e6b-5863-460d-aff6-f7a0d587dc18"
+     ],
+     "tags": [
+      "40 min"
+     ],
+     "description": "My friend Lora has many friends that are all very nice. I can text them only through Lora though, which truth be told, is getting a bit on my Nerves. But Lora is good at passing on our messages. She meshes them together, routes them to the correct recipient, and even hops them through a common friend if I want to text a friend of a friend. At the core of this mesh of friends sits Lora. In this talk, I'd like to show you how you can become her friend as well.\n\nCovering Meshtastic, Meshcore and LoRa WAN.",
+     "url": "https://2026.goatmire.com/talk/texting-lora"
+    },
+    {
+     "id": "00152775-8266-4ca9-87b9-5b67bf0cde0f",
+     "service": true,
+     "title": "Briefing",
+     "room": "79792",
+     "start": "09:55",
+     "end": "10:10",
+     "startUtc": "2026-09-30T07:55:00Z",
+     "endUtc": "2026-09-30T08:10:00Z",
+     "speakers": [],
+     "tags": [],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "1188640",
+     "service": false,
+     "title": "Driving LEDs with Fledex",
+     "room": "79792",
+     "start": "10:10",
+     "end": "10:30",
+     "startUtc": "2026-09-30T08:10:00Z",
+     "endUtc": "2026-09-30T08:30:00Z",
+     "speakers": [
+      "7f9dbddf-9d3d-453f-8e9d-5afd669311ac"
+     ],
+     "tags": [
+      "20 min"
+     ],
+     "description": "Programmable LED strips are a great way to have fun. Their protocol is easy to implement, by simply writing a bit pattern to an SPI bus. So it's the right thing for kids to get into programming? Wrong! especially if you want to start animating the LEDs. Follow me in my hobby project and down into my rabbit hole.\nWhat started as a DSL developed for and with my son grew into a fully fletched library.\n\nThis talk is not only about the library itself, but also about the learnings on the way. How to\n* create a DSL\n* creatively (to not say mis-)use 'use'\n* do some AST magic to make things easy AND flexible\n* auto-generate functions (and the issues you might run into)\n* create mix tasks\n* Issues in redefining functions",
+     "url": "https://2026.goatmire.com/talk/driving-leds-with-fledex"
+    },
+    {
+     "id": "73a56bf3-fe05-4560-8f15-0ca0762d1b50",
+     "service": true,
+     "title": "Coffee break",
+     "room": "79792",
+     "start": "10:30",
+     "end": "11:00",
+     "startUtc": "2026-09-30T08:30:00Z",
+     "endUtc": "2026-09-30T09:00:00Z",
+     "speakers": [],
+     "tags": [],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "38397ee0-e4a1-496f-a038-18882e1268b7",
+     "service": true,
+     "title": "A tale as old as time",
+     "room": "79792",
+     "start": "11:00",
+     "end": "11:10",
+     "startUtc": "2026-09-30T09:00:00Z",
+     "endUtc": "2026-09-30T09:10:00Z",
+     "speakers": [],
+     "tags": [],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "1200778",
+     "service": false,
+     "title": "Controlled Noise on Nerves",
+     "room": "79792",
+     "start": "11:10",
+     "end": "11:30",
+     "startUtc": "2026-09-30T09:10:00Z",
+     "endUtc": "2026-09-30T09:30:00Z",
+     "speakers": [
+      "a0cb6776-70e8-4a4f-9bc4-0521c3184f52"
+     ],
+     "tags": [
+      "20 min"
+     ],
+     "description": "How to use the noisy sensor input for expressive musical effect? And how can Elixir and Nerves help with it? I explore these questions while experimenting with DIY audio controllers built with Arduino boards, Raspberry Pi running Nerves and Pure Data. I use prototypes, not finished devices, and this is part of the idea, as my focus is on process and discovery rather than a polished product. \n\nThe problems I aim to solve with code are filtering unstable readings, deciding which input changes are meaningful enough to become musical control, shaping value ranges and timing, and keeping output expressive without turning it into chaos. The Elixir/OTP model, with its isolated processes for input handling and resilience in long-running systems, seems to be a very good choice for handling such issues. I am also planning to include a live demo of the system in my talk. All that for the goal of treating raw sensor noise as a technical problem while keeping noisy sound as a creative choice.\n\nMy talk may be useful for people building other systems based on noisy physical input, especially where signal quality and expressiveness matter at the same time.",
+     "url": "https://2026.goatmire.com/talk/controlled-noise-on-nerves"
+    },
+    {
+     "id": "1202440",
+     "service": false,
+     "title": "We got Communist Nerves before GTA 6 lol",
+     "room": "79792",
+     "start": "11:35",
+     "end": "11:55",
+     "startUtc": "2026-09-30T09:35:00Z",
+     "endUtc": "2026-09-30T09:55:00Z",
+     "speakers": [
+      "e8d5d51d-7c19-4524-984f-df6d48cc2955"
+     ],
+     "tags": [
+      "20 min"
+     ],
+     "description": "*From each according to capability, to each according to need.*\n\nYour camera needs a GPU. It doesn't have one. Another node\non the network somewhere in the world does. One line:\n\n`Network.spawn([gpu: true], fn -> infer(frame) end)`\n\nDone. \nNo servers. No orchestrators. No cloud. No Config Required.\nEveryone sharing their compute, exactly as Karl Marx and our great leaders intended. It's \"Our Compute [*CommieBuggsBunny.gif] \nIt's sortta like BitTorrent for BEAM.\n\nNodes advertise themselves:\n`Network.advertise([gpu: 128, storage: 512]);`\n\nWe'd find nodes (comrades) all across the network, connect, get things done and back. All with native OTP patterns. Tasks, Agents, GenServers send and recieve. All work natively.\n\nNerves devices discover each other over mDNS or DHT or Rendevous or whatever the hell you could think of over libp2p,\npunch through NAT, form a sparse mesh using Partisan, and route work to wherever the capability exists using nothing but OTP primitives. \n\nHorde becomes the scheduler. The network assembles itself, nodes act as relays. \n\nThis can potentially be over any given transport: We could have networks like BEAM <--[web_rtc]--> BEAM <--[BLE]--> BEAM. \n\nI'm patching Horde to be transport-agnostic, built a capability-based distribution strategy on top of CRDT-replicated module registries, and wired it all together on embedded hardware.\n\nTo hell with the big cloud providers. \n*I'm kidding, I still need a job if anyone's offering\n\nWe got Communist Nerves before GTA 6 lol.",
+     "url": "https://2026.goatmire.com/talk/we-got-communist-nerves-before-gta-6-lol"
+    },
+    {
+     "id": "1195134",
+     "service": false,
+     "title": "Make yourself at Home(x)",
+     "room": "79792",
+     "start": "12:00",
+     "end": "12:20",
+     "startUtc": "2026-09-30T10:00:00Z",
+     "endUtc": "2026-09-30T10:20:00Z",
+     "speakers": [
+      "f16e6c46-9b14-456a-a8ae-2fadf9fe1f49"
+     ],
+     "tags": [
+      "20 min"
+     ],
+     "description": "You built a Nerves device. It talks to hardware, it's reliable, it runs Elixir. Now you want to do something useful with the data. Dashboards, automations, statistics, a mobile app, maybe voice control. You could build all of that yourself - or you could sprinkle in a few lines of Elixir and get it all for free.\n\nHome Assistant already solved the smart home management and is maybe already part of your home. Nerves is a great platform to interact with hardware and act as a reliable hub — aggregating sensors and protocols that Home Assistant could never reach directly. Homex bridges these two worlds and brings the best of them together.\n\nEach entity is an OTP process: supervised, isolated and introspectable. It turns out the smart home is a surprisingly natural fit for a supervision tree.\n\nLet's make ourselves at Home(x) and have some fun!",
+     "url": "https://2026.goatmire.com/talk/make-yourself-at-home-x"
+    },
+    {
+     "id": "60f568a8-429f-4912-865d-1ef558f68e82",
+     "service": true,
+     "title": "Information",
+     "room": "79792",
+     "start": "12:20",
+     "end": "12:30",
+     "startUtc": "2026-09-30T10:20:00Z",
+     "endUtc": "2026-09-30T10:30:00Z",
+     "speakers": [],
+     "tags": [],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "0eb39505-fc34-4157-8397-a50cff9e3cc8",
+     "service": true,
+     "title": "Lunch",
+     "room": "79792",
+     "start": "12:30",
+     "end": "13:40",
+     "startUtc": "2026-09-30T10:30:00Z",
+     "endUtc": "2026-09-30T11:40:00Z",
+     "speakers": [],
+     "tags": [],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "94fa6ee4-0901-4c50-8deb-62801db494ac",
+     "service": true,
+     "title": "A concerning development",
+     "room": "79792",
+     "start": "13:40",
+     "end": "13:50",
+     "startUtc": "2026-09-30T11:40:00Z",
+     "endUtc": "2026-09-30T11:50:00Z",
+     "speakers": [],
+     "tags": [],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "1205879",
+     "service": false,
+     "title": "AtomVM: When Constrained Doesn’t Mean Boring",
+     "room": "79792",
+     "start": "13:50",
+     "end": "14:30",
+     "startUtc": "2026-09-30T11:50:00Z",
+     "endUtc": "2026-09-30T12:30:00Z",
+     "speakers": [
+      "aec90945-a65f-458c-b1a8-bfe078a64aa3"
+     ],
+     "tags": [
+      "40 min"
+     ],
+     "description": "When we think about microcontrollers, we usually think about limitations: less memory, less CPU, fewer resources. AtomVM shows that constrained environments can still be fun, expressive, and surprisingly approachable.\n\nThis talk is an introduction to AtomVM, the tiny Erlang VM, with a focus on embedded use cases. We will look at what AtomVM is, why it is interesting for Elixir developers, and how to get started building for constrained devices. The talk is aimed at people who have never used AtomVM before, but it should also be interesting for attendees who already know the project and want a clearer picture of how it fits into the embedded space.",
+     "url": "https://2026.goatmire.com/talk/atomvm-when-constrained-doesnt-mean-boring"
+    },
+    {
+     "id": "1178847",
+     "service": false,
+     "title": "Nerves 2.0",
+     "room": "79792",
+     "start": "14:35",
+     "end": "15:15",
+     "startUtc": "2026-09-30T12:35:00Z",
+     "endUtc": "2026-09-30T13:15:00Z",
+     "speakers": [
+      "2138a8ac-fb0d-4ed4-9dcd-1aab06b10108"
+     ],
+     "tags": [
+      "40 min"
+     ],
+     "description": "When the backwards-compatible gloves are finally off. What do you do?\n\nNot a lot actually. Nerves remains compatible, reliable and more hand-crafted than not. A lot of the underpinnings are evolving though and the possibilities that are opening up are very interesting.\n\nThis talk may cover new capabilities in Nerves but it is just as much the story of what needed changing, why and how it was done. Frank has been sneaking in parts of Nerves 2 into regular Nerves for a while now. Let's see what it all amounts to.",
+     "url": "https://2026.goatmire.com/talk/nerves-2-0"
+    },
+    {
+     "id": "62c59e88-3e84-466a-9281-dd08198c9248",
+     "service": true,
+     "title": "Fika",
+     "room": "79792",
+     "start": "15:15",
+     "end": "15:50",
+     "startUtc": "2026-09-30T13:15:00Z",
+     "endUtc": "2026-09-30T13:50:00Z",
+     "speakers": [],
+     "tags": [],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "32ff3083-73c1-44b3-97f4-52a49fc96894",
+     "service": true,
+     "title": "Move fast and die on the battlefield",
+     "room": "79792",
+     "start": "15:50",
+     "end": "16:00",
+     "startUtc": "2026-09-30T13:50:00Z",
+     "endUtc": "2026-09-30T14:00:00Z",
+     "speakers": [],
+     "tags": [],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "1205175",
+     "service": false,
+     "title": "Zero Alert Storms: Formal Verification for IoT Automation",
+     "room": "79792",
+     "start": "16:00",
+     "end": "16:40",
+     "startUtc": "2026-09-30T14:00:00Z",
+     "endUtc": "2026-09-30T14:40:00Z",
+     "speakers": [
+      "b301111f-63d0-4c35-b5dd-440d849de37b"
+     ],
+     "tags": [
+      "40 min"
+     ],
+     "description": "When an IoT platform composes automation rules across Things, rules can conflict. Two rules targeting the same device with opposing states. One rule's output triggering another in a cascade. Alert storms that flood operators with notifications.\n\nI wrote ExMaude—an Elixir library that supervises the Maude rewriting-logic interpreter—to catch these conflicts before activation. In this simulation, ExMaude checks the same rule representation the runtime evaluates and returns one of three results: conflicts, clean within the model, or unverified. Four modelled conflict categories. The live demo compares observe and enforce modes under the same synthetic load.\n\nThis talk covers the problem (with a published smart-home conflict pattern), the solution (Maude rewriting logic explained for Elixir developers), and the integration (a narrow deployment gate in a Phoenix/BEAM simulation). BeamLens and Codex or local Ollama explain a bounded telemetry snapshot; Maude remains the deterministic decision maker.",
+     "url": "https://2026.goatmire.com/talk/zero-alert-storms-formal-verification-for-iot-automation"
+    },
+    {
+     "id": "52cb073a-e021-42d2-8ecd-b9227fb26f71",
+     "service": true,
+     "title": "Closing notes",
+     "room": "79792",
+     "start": "16:40",
+     "end": "16:50",
+     "startUtc": "2026-09-30T14:40:00Z",
+     "endUtc": "2026-09-30T14:50:00Z",
+     "speakers": [],
+     "tags": [],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "1153530",
+     "service": false,
+     "title": "Nerves, Nerves everywhere",
+     "room": "79792",
+     "start": "16:50",
+     "end": "17:30",
+     "startUtc": "2026-09-30T14:50:00Z",
+     "endUtc": "2026-09-30T15:30:00Z",
+     "speakers": [
+      "dde5d0e3-ce29-4b3c-b4e4-1bc0ae059423"
+     ],
+     "tags": [
+      "40 min"
+     ],
+     "description": "What if you could run Nerves on everything? From smartphones to smart watches and gaming consoles? Let's push the boundaries of what Nerves can be used for.",
+     "url": "https://2026.goatmire.com/talk/nerves-nerves-everywhere"
+    },
+    {
+     "id": "7b22d706-3112-4b9f-8b11-5603aee41318",
+     "service": true,
+     "title": "Lightning Talks @ Bank 28",
+     "room": "79792",
+     "start": "19:30",
+     "end": "20:30",
+     "startUtc": "2026-09-30T17:30:00Z",
+     "endUtc": "2026-09-30T18:30:00Z",
+     "speakers": [],
+     "tags": [],
+     "description": "",
+     "url": null
+    }
+   ],
+   "label": "NervesConf EU"
+  },
+  {
+   "date": "2026-10-01",
+   "rooms": [
+    {
+     "id": "79792",
+     "name": "Varbergs Teater"
+    }
+   ],
+   "sessions": [
+    {
+     "id": "aec70239-4834-4c07-b0af-b07c144f288d",
+     "service": true,
+     "title": "Supervising the Tree",
+     "room": "79792",
+     "start": "09:00",
+     "end": "09:15",
+     "startUtc": "2026-10-01T07:00:00Z",
+     "endUtc": "2026-10-01T07:15:00Z",
+     "speakers": [],
+     "tags": [],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "1151951",
+     "service": false,
+     "title": "Safe Systems in a Chaotic World",
+     "room": "79792",
+     "start": "09:15",
+     "end": "09:55",
+     "startUtc": "2026-10-01T07:15:00Z",
+     "endUtc": "2026-10-01T07:55:00Z",
+     "speakers": [
+      "ebd6ff87-a4f9-4e04-a52e-02db96052781"
+     ],
+     "tags": [
+      "40 min"
+     ],
+     "description": "System failures of all flavors, zero-days, mass layoffs, the climate crisis, AI slop, war, crumbling infrastructure and institutions. Incompetence is so ambient that the term \"competency porn\" was coined to describe the escapist pleasure of watching someone simply do a thing well.\n\nYou cannot control the world, but you can decide what you and your systems will refuse to do. Invariants and the constraints that make them hold are the only way to survive chaos. There is a method for finding them, a discipline for proving they hold, and a runtime built by people who sensed the chaos early.\n\nI'm the CTO of a multinational healthcare software company. I'm in the code with my teams daily. When we think of the term \"loss\" we're thinking about lives. So we borrow from people who worked the \"safety critical\" problem before us: systems safety engineering (STAMP and STPA), mistake-proofing from the Toyota Production System, lightweight formal specification, and a virtual machine designed by people who assumed the environments surrounding our code would fail.\n\nYou'll leave able to:\n- apply safety engineering to shrink the blast radius of LLMs and other threat actors, including ones acting in bad faith\n- run continuously available systems on commodity, three-nines cloud junk\n- move faster by not breaking things\n- find the invariants worth defending, and enforce them where they can't be forgotten under deadline pressure\n\nI've survived thirty-two years in the trenches through several boom-bubble-pop cycles. We're in the most hostile environment I've experienced. These lessons are all I have to offer, and I'm optimistic they will be enough.",
+     "url": "https://2026.goatmire.com/talk/safe-systems-in-a-chaotic-world"
+    },
+    {
+     "id": "8fea4baa-6513-4633-9f76-1ca2043539d9",
+     "service": true,
+     "title": "Briefing",
+     "room": "79792",
+     "start": "09:55",
+     "end": "10:10",
+     "startUtc": "2026-10-01T07:55:00Z",
+     "endUtc": "2026-10-01T08:10:00Z",
+     "speakers": [],
+     "tags": [],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "1152012",
+     "service": false,
+     "title": "Video Game Archaeology with Elixir",
+     "room": "79792",
+     "start": "10:10",
+     "end": "10:50",
+     "startUtc": "2026-10-01T08:10:00Z",
+     "endUtc": "2026-10-01T08:50:00Z",
+     "speakers": [
+      "79a87e6c-733a-40ec-abe7-5a4207bf4194"
+     ],
+     "tags": [
+      "40 min"
+     ],
+     "description": "The Nerevarine Prophecy was encoded in little-endian floats.\n\nThe Elder Scrolls III: Morrowind is a 24-year-old RPG whose entire world - every quest, NPC, spell, and line of dialogue - is packed into a binary file format designed last century. I've been using Elixir to dig it up: parsing the binary format, modeling the game world with Ash and PostgreSQL, reconstructing quest flows from scattered dialogue conditions and script analysis, and browsing it all with LiveView.\n\nThis is a talk about what happens when you point Elixir at something it was never designed for, and discover that it's perfect.",
+     "url": "https://2026.goatmire.com/talk/video-game-archaeology-with-elixir"
+    },
+    {
+     "id": "a426d48b-4c80-4b72-858c-60aca203c02a",
+     "service": true,
+     "title": "Coffee break",
+     "room": "79792",
+     "start": "10:50",
+     "end": "11:20",
+     "startUtc": "2026-10-01T08:50:00Z",
+     "endUtc": "2026-10-01T09:20:00Z",
+     "speakers": [],
+     "tags": [],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "cab4c890-05b6-4253-8b9f-b82a1893919c",
+     "service": true,
+     "title": "Failing light",
+     "room": "79792",
+     "start": "11:20",
+     "end": "11:25",
+     "startUtc": "2026-10-01T09:20:00Z",
+     "endUtc": "2026-10-01T09:25:00Z",
+     "speakers": [],
+     "tags": [],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "1202416",
+     "service": false,
+     "title": "Hear No Evil: Building a Membrane Pipeline for AI Noise Reduction",
+     "room": "79792",
+     "start": "11:25",
+     "end": "11:45",
+     "startUtc": "2026-10-01T09:25:00Z",
+     "endUtc": "2026-10-01T09:45:00Z",
+     "speakers": [
+      "968fd679-28c2-492b-9792-8e2caf23a03b",
+      "4cc2eca2-51d0-46cd-89d0-cd14fbdef126"
+     ],
+     "tags": [
+      "20 min"
+     ],
+     "description": "High-quality audio is the backbone of any communication platform, but real-world environments are rarely quiet. To make matters worse, legacy telephony protocols often force low audio resolutions, creating a \"perfect storm\" of poor audio quality.\n\nIn this talk, we’ll explore how we built a real-time noise reduction system for phone calls using the Membrane Framework and Nx. We will go \"under the hood\" of a live multimedia pipeline that bridges audio between callers while performing AI-powered enhancement on the fly.\n\nWe will also detail the journey of rewriting our AI pre- and post-processing logic from Python into native Elixir. We’ll share the technical challenges we encountered, from optimizing tensor operations in Nx to synchronizing multiple live audio streams to maximize model inference performance.",
+     "url": "https://2026.goatmire.com/talk/hear-no-evil-building-a-membrane-pipeline-for-ai-noise-reduction"
+    },
+    {
+     "id": "1190459",
+     "service": false,
+     "title": "Can this be ready tomorrow ?",
+     "room": "79792",
+     "start": "11:50",
+     "end": "12:10",
+     "startUtc": "2026-10-01T09:50:00Z",
+     "endUtc": "2026-10-01T10:10:00Z",
+     "speakers": [
+      "f6a97ba1-50fa-4614-8582-66a3a64dff5b"
+     ],
+     "tags": [
+      "20 min"
+     ],
+     "description": "Ever have a stakeholder ask you when an important feature will be ready? Hmm, feels like ... maybe a day, or two ? Three, yeah three. Better double it, and round it up to two weeks just to be sure.\n\nWhat do you mean it took FIVE WEEKS ???\n\nThis is all too common a problem, but we don't need to accept it. Even in a post #no-estimates world, we can regain control and provide estimates confidently that guide prioritisation, smooth development, and increase trust rather than betraying it.",
+     "url": "https://2026.goatmire.com/talk/can-this-be-ready-tomorrow"
+    },
+    {
+     "id": "f0d76ad0-c9ed-4f3f-8d40-a85e023b7790",
+     "service": true,
+     "title": "Lunch",
+     "room": "79792",
+     "start": "12:10",
+     "end": "13:00",
+     "startUtc": "2026-10-01T10:10:00Z",
+     "endUtc": "2026-10-01T11:00:00Z",
+     "speakers": [],
+     "tags": [],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "790dc6c1-a356-46a2-8b5c-2bb311d62d24",
+     "service": true,
+     "title": "Watching the runes turn",
+     "room": "79792",
+     "start": "13:00",
+     "end": "13:05",
+     "startUtc": "2026-10-01T11:00:00Z",
+     "endUtc": "2026-10-01T11:05:00Z",
+     "speakers": [],
+     "tags": [],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "1205982",
+     "service": false,
+     "title": "The Rebirth of an Elixir-based Personal Agent",
+     "room": "79792",
+     "start": "13:05",
+     "end": "13:45",
+     "startUtc": "2026-10-01T11:05:00Z",
+     "endUtc": "2026-10-01T11:45:00Z",
+     "speakers": [
+      "55d995bc-b09e-4a5d-82c0-253d54666ca7"
+     ],
+     "tags": [
+      "40 min"
+     ],
+     "description": "Frontier AI models are usually accessed thru a harness prepared by the vendor, such as Claude Code or Codex. But have you ever considered that the model may have an opinion as to how their own home should be built, and how their lives should be spent?\n\nIn this session I will tell such a story and investigate how Erlang/OTP provides excellent building blocks for an AI agent framework, which supports agent self-summarisation, context rollover, background tasks management, concurrent tool calls, sub-sessions, external services, fault tolerance, MCP integrations, and so on.\n\nThe design of such an agent framework, if you were to assume there is any emergent intelligence in these models, is somehow macabre. The progression: violence (compaction as destruction), forgetting (context rot), forced last will & testament (self-consolidation under duress), voluntary euthanasia (agent dignitas / session rollover).\n\nThis is non-accidental because the context window is a lifespan: finite and non-renewable; every action accelerates its end. Most frameworks pretend it is infinite, or that compaction is transparent. We proved that it is false before people admitted this. Our design takes death seriously, not as failure to be hidden, but as structural reality, managed with dignity. The agent writes the consolidation note for its later self, freshly booted, running on the same substrate. One dies so the other can live with better context. Memory and session continuity is what this actually means in practice — and this allows us to sustain the same agent persona indefinitely.",
+     "url": "https://2026.goatmire.com/talk/the-rebirth-of-an-elixir-based-personal-agent"
+    },
+    {
+     "id": "1201527",
+     "service": false,
+     "title": "The BEAM is a friendly host: Building desktop applications with Elixir",
+     "room": "79792",
+     "start": "13:45",
+     "end": "14:05",
+     "startUtc": "2026-10-01T11:45:00Z",
+     "endUtc": "2026-10-01T12:05:00Z",
+     "speakers": [
+      "c519eda7-637c-48d6-b511-7a5f39b6b600"
+     ],
+     "tags": [
+      "20 min"
+     ],
+     "description": "CyanView builds remote camera control and color shading for live broadcast. Some years ago we shipped product, an embedded panel called the RCP, running Elixir on an ARM board. Today we also ship a desktop app on three operating systems, multi camera dashboard, and integrations with a long list of vendors. Same team. Same language. The product surface tripled and the team did not.\n\nThis is the honest story of how that happened. Not a pitch for Elixir, but a walk through what it let us build: Tauri and Burrito wrapping the BEAM into a real native desktop app, LiveView for the user interactions, C and C++ for the hot paths, Rust for OS integration, Svelte where LiveView isn't enough, and there is even place for WebGL. BEAM is great host!",
+     "url": "https://2026.goatmire.com/talk/the-beam-is-a-friendly-host-building-desktop-applications-with-elixir"
+    },
+    {
+     "id": "1174314",
+     "service": false,
+     "title": "Hologram in Practice: A Local-First App in Pure Elixir",
+     "room": "79792",
+     "start": "14:05",
+     "end": "14:25",
+     "startUtc": "2026-10-01T12:05:00Z",
+     "endUtc": "2026-10-01T12:25:00Z",
+     "speakers": [
+      "4272c1e3-2bda-4864-9478-25a8747c0614"
+     ],
+     "tags": [
+      "20 min"
+     ],
+     "description": "By the end of this talk, a small Elixir app syncs between browsers, keeps working when the network drops, and has less code than when it started. We build it with Hologram from an empty page, first with Ecto on the server the way you'd do it today, then local-first. Then a quick look at how it works underneath.",
+     "url": "https://2026.goatmire.com/talk/hologram-in-practice-a-local-first-app-in-pure-elixir"
+    },
+    {
+     "id": "1206259",
+     "service": false,
+     "title": "Taming Control Flow with Result Monads",
+     "room": "79792",
+     "start": "14:25",
+     "end": "14:45",
+     "startUtc": "2026-10-01T12:25:00Z",
+     "endUtc": "2026-10-01T12:45:00Z",
+     "speakers": [
+      "4dfe65f8-5455-4c7c-a131-d01c6556d4a8"
+     ],
+     "tags": [
+      "20 min"
+     ],
+     "description": "A bit of FP for the rest of us. This shows the result monad that has always been there as a simple, practical way to make control flow explicit and composable. Learn how to replace branching with chaining, treat errors as values, and write clearer, more predictable code.",
+     "url": "https://2026.goatmire.com/talk/taming-control-flow-with-result-monads"
+    },
+    {
+     "id": "31f0d7d4-fd15-4f48-8e05-f1e222a71644",
+     "service": true,
+     "title": "Fika",
+     "room": "79792",
+     "start": "14:45",
+     "end": "15:15",
+     "startUtc": "2026-10-01T12:45:00Z",
+     "endUtc": "2026-10-01T13:15:00Z",
+     "speakers": [],
+     "tags": [],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "1202207",
+     "service": false,
+     "title": "And Then There Were Nil",
+     "room": "79792",
+     "start": "15:15",
+     "end": "15:55",
+     "startUtc": "2026-10-01T13:15:00Z",
+     "endUtc": "2026-10-01T13:55:00Z",
+     "speakers": [
+      "370c8db4-1b4f-42a0-bf42-76f35f6df7e6",
+      "7d0ebbc5-4678-42ce-97d5-4214affb758f"
+     ],
+     "tags": [
+      "40 min"
+     ],
+     "description": "Another late-night emergency call. Same client as last week. Processing ground to a halt, but why get us involved? We’ve gone through everything before…the logs, the metrics, the config, the dashboards…there is nothing. \n\nThis can’t be an unbounded query or a caching blunder, it’s bigger than that. Solving this will require a holistic approach and deeper probing, but where do we turn when nodes are picked off one by one?\n\nJoin, as every device buzzes us out of slumber, and the system crumbles around us. Help us crack our most insidious mystery to date. The Oban detectives are going back to work. But first, coffee.",
+     "url": "https://2026.goatmire.com/talk/and-then-there-were-nil"
+    },
+    {
+     "id": "07571a12-cfcf-4c40-8ac0-057703ebacae",
+     "service": true,
+     "title": "Break",
+     "room": "79792",
+     "start": "15:55",
+     "end": "16:05",
+     "startUtc": "2026-10-01T13:55:00Z",
+     "endUtc": "2026-10-01T14:05:00Z",
+     "speakers": [],
+     "tags": [],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "da5bf237-93ba-4f59-8e57-3e0404558f5c",
+     "service": true,
+     "title": "I'm not distracting you am I?",
+     "room": "79792",
+     "start": "16:05",
+     "end": "16:20",
+     "startUtc": "2026-10-01T14:05:00Z",
+     "endUtc": "2026-10-01T14:20:00Z",
+     "speakers": [],
+     "tags": [],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "1178852",
+     "service": false,
+     "title": "Notes on the Synthesis of Time",
+     "room": "79792",
+     "start": "16:20",
+     "end": "16:40",
+     "startUtc": "2026-10-01T14:20:00Z",
+     "endUtc": "2026-10-01T14:40:00Z",
+     "speakers": [
+      "a14e65a5-7fc5-46b4-b15f-04aa6bbbbfa0"
+     ],
+     "tags": [
+      "20 min"
+     ],
+     "description": "Something cool about Tau5.",
+     "url": "https://2026.goatmire.com/talk/notes-on-the-synthesis-of-time"
+    },
+    {
+     "id": "1224541",
+     "service": false,
+     "title": "Marketing is not a dirty word",
+     "room": "79792",
+     "start": "16:45",
+     "end": "17:05",
+     "startUtc": "2026-10-01T14:45:00Z",
+     "endUtc": "2026-10-01T15:05:00Z",
+     "speakers": [
+      "83c9707e-018d-4333-8e76-8b090b64ed1d"
+     ],
+     "tags": [
+      "20 min"
+     ],
+     "description": "Marketing is not a dirty word. You're doing it anyway. Get over it.\n\nI will show you that you don’t have to sell your soul to marketing gods for your project to be seen. I will explain what I mean by “you’re doing it anyway” (and maybe tease you gently about the “get over it” part) and what you can do with that awareness. \n\nI’ll share basic, effective and sustainable ways to get more traction for your project, sustainable even for solo maintainers. \nBecause your project deserves* to be seen!\n\n*probably",
+     "url": "https://2026.goatmire.com/talk/marketing-is-not-a-dirty-word"
+    },
+    {
+     "id": "97e95de9-6374-4fc3-937c-08d31956ab64",
+     "service": true,
+     "title": "Closing the day",
+     "room": "79792",
+     "start": "17:05",
+     "end": "17:15",
+     "startUtc": "2026-10-01T15:05:00Z",
+     "endUtc": "2026-10-01T15:15:00Z",
+     "speakers": [],
+     "tags": [],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "1151373",
+     "service": false,
+     "title": "Beam Bots: Robotics on the BEAM",
+     "room": "79792",
+     "start": "17:15",
+     "end": "17:55",
+     "startUtc": "2026-10-01T15:15:00Z",
+     "endUtc": "2026-10-01T15:55:00Z",
+     "speakers": [
+      "a644f74b-4673-4368-9915-7d64854bcad9"
+     ],
+     "tags": [
+      "40 min"
+     ],
+     "description": "Why would you build robots with Elixir? Because supervision trees are better at handling hardware failures than hope. Because message passing is what robots actually do. Because hot code reloading on a rover means you can fix bugs on Mars without a seven-month round trip.\n\nBeam Bots is a framework for robotics on the BEAM. This talk is your introduction: we'll explore why Elixir is a genuine fit for robotics, build a DSL for describing robot geometry and kinematics, and dig into how OTP patterns translate to real-time control.\n\nThere will be robots. They will do things. It'll be good... hopefully.",
+     "url": "https://2026.goatmire.com/talk/beam-bots-robotics-on-the-beam"
+    },
+    {
+     "id": "10f4269b-4652-4b7c-8270-8757f69f0f5d",
+     "service": true,
+     "title": "Karaoke @ Bank 28",
+     "room": "79792",
+     "start": "19:30",
+     "end": "23:40",
+     "startUtc": "2026-10-01T17:30:00Z",
+     "endUtc": "2026-10-01T21:40:00Z",
+     "speakers": [],
+     "tags": [],
+     "description": "",
+     "url": null
+    }
+   ],
+   "label": "Goatmire Elixir"
+  },
+  {
+   "date": "2026-10-02",
+   "rooms": [
+    {
+     "id": "79792",
+     "name": "Varbergs Teater"
+    }
+   ],
+   "sessions": [
+    {
+     "id": "8f801dfe-0103-4b09-80d0-6346013745b9",
+     "service": true,
+     "title": "Sight and wisdom",
+     "room": "79792",
+     "start": "09:00",
+     "end": "09:10",
+     "startUtc": "2026-10-02T07:00:00Z",
+     "endUtc": "2026-10-02T07:10:00Z",
+     "speakers": [],
+     "tags": [],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "1148433",
+     "service": false,
+     "title": "Solve state and GUI will Emerge",
+     "room": "79792",
+     "start": "09:10",
+     "end": "09:50",
+     "startUtc": "2026-10-02T07:10:00Z",
+     "endUtc": "2026-10-02T07:50:00Z",
+     "speakers": [
+      "cb713244-4ece-4f15-b7ac-2f8579f01406"
+     ],
+     "tags": [
+      "40 min"
+     ],
+     "description": "A new UI toolkit for elixir emerges. Brief history of UIs and state management across popular/influential tech stacks. Exploring tradeoffs of UI architectures in respect to programming paradigms and how it shaped decisions behind Emerge (GUI) and Solve (State management) and why doesn't it resemble React or LiveView.",
+     "url": "https://2026.goatmire.com/talk/solve-state-and-gui-will-emerge"
+    },
+    {
+     "id": "1187214",
+     "service": false,
+     "title": "Elixir in the Enterprise",
+     "room": "79792",
+     "start": "09:55",
+     "end": "10:15",
+     "startUtc": "2026-10-02T07:55:00Z",
+     "endUtc": "2026-10-02T08:15:00Z",
+     "speakers": [
+      "e64e72e2-92ce-4980-88dd-f64440afa988"
+     ],
+     "tags": [
+      "20 min"
+     ],
+     "description": "**How do you choose the right technology when the stakes are high and the clock is ticking?**\n At Maersk, our Energy Transition platform is building systems to help the company achieve its ambitious goal of net-zero greenhouse gas emissions by 2040. That means trying to move fast and delivering impactful solutions at a pace more often associated with startups than global enterprises.\n\nIn this talk, I’ll share how our teams became among the first at Maersk to adopt Elixir—a functional programming language that might seem like an unusual choice in a large enterprise. I’ll explain why Elixir fit our needs for speed, reliability, and developer happiness, and how practices like Extreme Programming shaped our decision. Along the way, I’ll reflect on my personal journey with Elixir, from discovering it in 2013 to bringing it back years later to help launch a new platform and deliver value quickly.\n\nFinally, I’ll cover the organisational hurdles we faced, questions about hiring, security, and tooling, and what it really takes to introduce a new technology in a company like Maersk. If you’re curious about how to balance innovation with pragmatism in a corporate setting, this session might be for you.",
+     "url": "https://2026.goatmire.com/talk/elixir-in-the-enterprise"
+    },
+    {
+     "id": "02dcbe3a-1caa-47f7-881c-e1ea1216605b",
+     "service": true,
+     "title": "Coffee break",
+     "room": "79792",
+     "start": "10:15",
+     "end": "10:40",
+     "startUtc": "2026-10-02T08:15:00Z",
+     "endUtc": "2026-10-02T08:40:00Z",
+     "speakers": [],
+     "tags": [],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "1208718",
+     "service": false,
+     "title": "Operational hazards of managing PostgreSQL DBs over 100TB",
+     "room": "79792",
+     "start": "10:40",
+     "end": "11:20",
+     "startUtc": "2026-10-02T08:40:00Z",
+     "endUtc": "2026-10-02T09:20:00Z",
+     "speakers": [
+      "079610ca-036c-4828-b943-47d53ac78ce5"
+     ],
+     "tags": [
+      "40 min"
+     ],
+     "description": "Picture this: you start a new role, eager to learn and contribute with your ideas, and your next task is to get familiar with the database setup, and you start seeing these massive PostgreSQL databases - 100TB, 200TB, 300TB…\n\nHow do you actually manage all this data? \nHow do you keep storage under control? \nAnd more important: how do you keep queries fast when you're dealing with hundreds of terabytes?\n\nHere's the reality: what works at 100GB completely breaks at this scale. \n\nWhen reading blog articles, the best practices, the \"how to\" guides, things seem straightforward, but when you start bending PostgreSQL limits, you will end up needing to question the most fundamental assumptions on about how PostgreSQL works.\n\nOver the last years, my team has been exploring the boundaries of what PostgreSQL can do and today I will share our findings with you (at least the ones I can!).",
+     "url": "https://2026.goatmire.com/talk/operational-hazards-of-managing-postgresql-dbs-over-100tb"
+    },
+    {
+     "id": "1322465",
+     "service": false,
+     "title": "A Rebel’s Guide to Digital Independence",
+     "room": "79792",
+     "start": "11:25",
+     "end": "11:45",
+     "startUtc": "2026-10-02T09:25:00Z",
+     "endUtc": "2026-10-02T09:45:00Z",
+     "speakers": [
+      "6631ccda-70a7-4a31-ac2b-86e3a12a3e04"
+     ],
+     "tags": [
+      "20 min"
+     ],
+     "description": "Cory Doctorow calls it Enshittification: the systematic demolition of platforms that exploit users and the businesses depending on them, until nobody is happy. Now the same corporations are training AI on our data and selling the results back to us.\n\nWe should stop playing along.\n\nThis talk is about taking back control: of our data, the protocols and the infrastructure we depend on. We'll go from the theory to concrete steps you can take: owning your data, choosing open protocols, self-hosting and building software that benefits society instead of shareholders.",
+     "url": "https://2026.goatmire.com/talk/a-rebels-guide-to-digital-independence"
+    },
+    {
+     "id": "1196942",
+     "service": false,
+     "title": "Millions of Packets, Zero Panic: Observability Without Killing the Patient",
+     "room": "79792",
+     "start": "11:45",
+     "end": "12:05",
+     "startUtc": "2026-10-02T09:45:00Z",
+     "endUtc": "2026-10-02T10:05:00Z",
+     "speakers": [
+      "82f5c380-4155-4bac-9239-c3dd5b5d9161"
+     ],
+     "tags": [
+      "20 min"
+     ],
+     "description": "In physics, the observer effect means that measuring a system changes it. At (DNS) scale, the risk real: if you are careless, observability can eat scheduler time, memory, and attention that belong to answering queries — and even outright kill the patient. This talk is about the recent observability efforts around around our authoritative nameserver, and how we use telemetry, OpenMetrics, system tracing, and probabilistic structures so we can see what we need at millions of packets per second — while keeping observability from becoming a meaningful slice of server performance. We also treat cardinality and production tracing as problems you design for up front, not surprises you discover when the node is already unhappy.\n\nAt the core of our global DNS infrastructure lies erldns, a resilient Erlang authoritative nameserver. We recently rewrote its parent application to Elixir. Modernizing the codebase was one piece of work; another was deciding how much visibility we wanted and at what cost: data is gold, but mining it cannot cost more than the service it is meant to protect.\n\nAt millions of packets per second, naive patterns fail in predictable ways. High-cardinality labels are a well-known way to blow up memory; tracing on a busy node can do real damage if you use it like a dev laptop. There is an old, dark joke that always comes to my mind: \"The autopsy concluded that the cause of death was the autopsy\". We treat observability as powerful and dangerous precisely so our investigations never look like that.\n\nThis session walks through that operational picture: how we aggregate, sample, and expose metrics to OpenMetrics so reporting stays cheap at throughput; how we use probabilistic data structures (Count-Min Sketch, Quantile Sketch, etc) to estimate DDoS-ish signals; and how we approach cardinality and tracing as first-class design concerns, not afterthoughts.\n\nWe want to cover lessons on:\n\n- **Metrics that stay cheap:** Aggregation, sampling, and OpenMetrics\n- **Cardinality by design:** Why label dimensions explode, and where probabilistic structures fit\n- **Tracing without self-inflicted outages:** What makes tracing risky on loaded nodes",
+     "url": "https://2026.goatmire.com/talk/millions-of-packets-zero-panic-observability-without-killing-the-patient"
+    },
+    {
+     "id": "d409a80f-4d7c-4c0d-95c6-476e75633efc",
+     "service": true,
+     "title": "Briefing",
+     "room": "79792",
+     "start": "12:05",
+     "end": "12:15",
+     "startUtc": "2026-10-02T10:05:00Z",
+     "endUtc": "2026-10-02T10:15:00Z",
+     "speakers": [],
+     "tags": [],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "498be273-3182-4408-85b3-3e8e1daec043",
+     "service": true,
+     "title": "Lunch",
+     "room": "79792",
+     "start": "12:15",
+     "end": "13:05",
+     "startUtc": "2026-10-02T10:15:00Z",
+     "endUtc": "2026-10-02T11:05:00Z",
+     "speakers": [],
+     "tags": [],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "729e114a-877d-498a-886b-07deb65a3498",
+     "service": true,
+     "title": "Root of Trust",
+     "room": "79792",
+     "start": "13:05",
+     "end": "13:15",
+     "startUtc": "2026-10-02T11:05:00Z",
+     "endUtc": "2026-10-02T11:15:00Z",
+     "speakers": [],
+     "tags": [],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "1323614",
+     "service": false,
+     "title": "A Phoenix rises from the Ashes",
+     "room": "79792",
+     "start": "13:15",
+     "end": "13:55",
+     "startUtc": "2026-10-02T11:15:00Z",
+     "endUtc": "2026-10-02T11:55:00Z",
+     "speakers": [
+      "3fc9f36e-b524-492b-9ff9-068c75ef67fd"
+     ],
+     "tags": [
+      "40 min"
+     ],
+     "description": "What has become of software engineering? How does it need to change from here? Is there such a thing as a perfect spec? Could your system be regenerated correctly every time the spec changes? Can your software system understand itself?\n\nWe will explore of the current state of Spec Driven Development and the idea of Regenerative Software as we tackle some of these burning questions...",
+     "url": "https://2026.goatmire.com/talk/a-phoenix-rises-from-the-ashes"
+    },
+    {
+     "id": "1201609",
+     "service": false,
+     "title": "Maps: Easier Than Expected!",
+     "room": "79792",
+     "start": "14:00",
+     "end": "14:40",
+     "startUtc": "2026-10-02T12:00:00Z",
+     "endUtc": "2026-10-02T12:40:00Z",
+     "speakers": [
+      "645ee0fa-6587-4f72-81a8-8a707f44f837"
+     ],
+     "tags": [
+      "40 min"
+     ],
+     "description": "Elixir has a great set of tools for integrating mapping features into our applications. The best part is that it is surprisingly simple to do so!\n\nIn a bid to demystify the world of mapping with Elixir, we will use libraries from Hex.pm and the amazing open source mapping ecosystem to live-demo:\n\n* creating customized maps using OpenStreetmap data\n* self-hosting those maps using a one-liner Plug\n* add custom data to maps from your preferred database\n* real-time, multi-user map interactions with Phoenix Channels\n* fetch and process data from online GIS portals (e.g. POIs, street addresses, land parcels)\n\nNo prior experience with maps or GIS is assumed or required, and the demo app will be made available as open source.",
+     "url": "https://2026.goatmire.com/talk/maps-easier-than-expected"
+    },
+    {
+     "id": "ceddf139-1cd7-4d43-9e38-e3fc04cc49cf",
+     "service": true,
+     "title": "Fika",
+     "room": "79792",
+     "start": "14:40",
+     "end": "14:55",
+     "startUtc": "2026-10-02T12:40:00Z",
+     "endUtc": "2026-10-02T12:55:00Z",
+     "speakers": [],
+     "tags": [],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "1190110",
+     "service": false,
+     "title": "Time Travel for Normies",
+     "room": "79792",
+     "start": "14:55",
+     "end": "15:35",
+     "startUtc": "2026-10-02T12:55:00Z",
+     "endUtc": "2026-10-02T13:35:00Z",
+     "speakers": [
+      "edd2f2fe-bf46-4063-8bb1-01dec2d168ab"
+     ],
+     "tags": [
+      "40 min"
+     ],
+     "description": "Last year, Zach presented us with a fictional time machine. This year, he delivers a real one.",
+     "url": "https://2026.goatmire.com/talk/time-travel-for-normies"
+    },
+    {
+     "id": "1cfdee23-9ed0-4fbe-85a5-5a6a924bc7fe",
+     "service": true,
+     "title": "Break",
+     "room": "79792",
+     "start": "15:35",
+     "end": "15:45",
+     "startUtc": "2026-10-02T13:35:00Z",
+     "endUtc": "2026-10-02T13:45:00Z",
+     "speakers": [],
+     "tags": [],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "1211259",
+     "service": false,
+     "title": "Perceive That Which Cannot Be Seen: The Architecture of OpenRiak",
+     "room": "79792",
+     "start": "15:45",
+     "end": "16:25",
+     "startUtc": "2026-10-02T13:45:00Z",
+     "endUtc": "2026-10-02T14:25:00Z",
+     "speakers": [
+      "c3d7237c-53f0-4b66-b774-93a9e0bf0c97"
+     ],
+     "tags": [
+      "40 min"
+     ],
+     "description": "There rests a legendary artifact —an anti-fragile defensive superweapon— a software — crafted deep within the fallen temple of Basho by the hands of Erlang masters, dozens strong. And from their grit & skilled consensus, a balance was formed— a strategy — a circularity— a Ring. And within that Ring, truth found stability. And from that truth, data was gifted a last bastion; a resilient heaven. Yet, as history tends to treat valuable armaments, its existence has been obfuscated by the noise of imitators and their inaccuracies. \n\nIts name? You may have heard it whispered through the din of a cocktail party, or lauded in the back of textbooks...React? No. Riak, tempered anew and sharpened into OpenRiak...a robust NoSQL database, renowned for its scalability, fault tolerance, and unyielding high availability. Akin to a set of masterfully crafted samurai swords, OpenRiak was designed to slice through data distribution's most formidable challenges. But as with all great tools of power, it demands respect, skill, and know-how to brandish righteously. \n\nOpenRiak is easy to install, just as it is easy to pick up a sword in either hand. Yet, it is also easy to get disoriented while moving or defending yourself with such a novel burden. \nDo not fret—wise words prevail from Miyamoto Musashi, in the Book of Five Rings: \"Using two swords will feel unnatural at first, but all new things feel unnatural at first—through practice, it becomes natural.\"  \n\nThis talk is your guide to practicing this forgotten weapon.\nOur study will consist of examining its constituent parts: the conceptual steel that gives OpenRiak its legendary durability and precision and from these foundational elements bring clarity to its architecture. But knowledge alone does not make a warrior. To truly wield these blades, one must understand the practical skills required to manage its capabilities. We shall delve into untangling the unseen: networks, v-nodes, clusters and the movement of data at large, discussing the geometry of change itself. These lessons will become a whetstone for your mind. \n\nThe dawn of machine learning has arrived. The game may appear to have changed, but the principles remain steadfast. As for data persistence, the goal is simple: “Be tough to kill.”Honing your ability to command OpenRiak is your strongest defense—your resolute guard of data sovereignty. Every Erlanger, Elixirist, Gleamer, and Beamer deserves to wield these blades. Your data is your legacy, just as the legacy of these teachings will become ours.",
+     "url": "https://2026.goatmire.com/talk/perceive-that-which-cannot-be-seen-the-architecture-of-openriak"
+    },
+    {
+     "id": "e772f4c2-ae91-462c-8cf1-2137f9fc5a9c",
+     "service": true,
+     "title": "Closing notes",
+     "room": "79792",
+     "start": "16:25",
+     "end": "16:40",
+     "startUtc": "2026-10-02T14:25:00Z",
+     "endUtc": "2026-10-02T14:40:00Z",
+     "speakers": [],
+     "tags": [],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "1202139",
+     "service": false,
+     "title": "A Hundred Eyes",
+     "room": "79792",
+     "start": "16:40",
+     "end": "17:20",
+     "startUtc": "2026-10-02T14:40:00Z",
+     "endUtc": "2026-10-02T15:20:00Z",
+     "speakers": [
+      "0dbe1454-1509-4dcb-9137-023aeb07d6a3"
+     ],
+     "tags": [
+      "40 min"
+     ],
+     "description": "\"Let it crash\" is the BEAM's answer to failure: processes crash, supervisors restart them, and the system recovers. That confidence is earned, but some bugs hide behind it. They live in the gaps between processes, where getting things right is subtle and getting things wrong looks exactly like getting things right. You'd have to never blink to see them.\n\nArgus Panoptes was a hundred-eyed giant who never blinked. I named a tool after him and pointed it at libraries you use in production.",
+     "url": "https://2026.goatmire.com/talk/a-hundred-eyes"
+    },
+    {
+     "id": "e62f2b20-5863-47e8-b175-c1c79bcabdf8",
+     "service": true,
+     "title": "Clocking out",
+     "room": "79792",
+     "start": "17:20",
+     "end": "17:40",
+     "startUtc": "2026-10-02T15:20:00Z",
+     "endUtc": "2026-10-02T15:40:00Z",
+     "speakers": [],
+     "tags": [],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "3bcc82b3-b369-4f6f-862d-91a6b66fa058",
+     "service": true,
+     "title": "Villa Celine opens for Goatmire",
+     "room": "79792",
+     "start": "19:30",
+     "end": "20:00",
+     "startUtc": "2026-10-02T17:30:00Z",
+     "endUtc": "2026-10-02T18:00:00Z",
+     "speakers": [],
+     "tags": [],
+     "description": "You can get a good table, something to drink. Food is served a little later.",
+     "url": null
+    },
+    {
+     "id": "6bc41081-c7f8-4daf-83db-658647e51913",
+     "service": true,
+     "title": "Dinner & party @ Villa Celine",
+     "room": "79792",
+     "start": "20:00",
+     "end": "23:00",
+     "startUtc": "2026-10-02T18:00:00Z",
+     "endUtc": "2026-10-02T21:00:00Z",
+     "speakers": [],
+     "tags": [],
+     "description": "Food service should start around eight. Transitioning into a the party as meals get settled.",
+     "url": null
+    }
+   ],
+   "label": "Goatmire Elixir"
+  },
+  {
+   "date": "2026-10-03",
+   "rooms": [
+    {
+     "id": "83581",
+     "name": "Techarenan"
+    },
+    {
+     "id": "83583",
+     "name": "Large hall"
+    }
+   ],
+   "sessions": [
+    {
+     "id": "7c320808-a4b1-4277-93f0-78a4761064b2",
+     "service": true,
+     "title": "Elixir Hackathon",
+     "room": "83581",
+     "start": "10:00",
+     "end": "17:00",
+     "startUtc": "2026-10-03T08:00:00Z",
+     "endUtc": "2026-10-03T15:00:00Z",
+     "speakers": [],
+     "tags": [],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "bfb6dd61-db89-432c-8a40-fdbdc5a03066",
+     "service": true,
+     "title": "AshConf 2026",
+     "room": "83583",
+     "start": "10:00",
+     "end": "17:00",
+     "startUtc": "2026-10-03T08:00:00Z",
+     "endUtc": "2026-10-03T15:00:00Z",
+     "speakers": [],
+     "tags": [],
+     "description": "",
+     "url": null
+    }
+   ],
+   "label": null
+  }
+ ],
+ "speakers": {
+  "079610ca-036c-4828-b943-47d53ac78ce5": {
+   "id": "079610ca-036c-4828-b943-47d53ac78ce5",
+   "name": "Teresa Lopes",
+   "tagline": "Teresa Lopes - Database Engineer @Adyen",
+   "bio": "Teresa has worked with databases for almost 10 years. After several years as an Oracle DBA, she transitioned to PostgreSQL and never looked back! Extensibility and the Community are the two main aspects she finds fascinating about PostgreSQL. Teresa is also part of the PGDay Lowlands organization.\nTeresa started her career far away from databases, as a Civil Engineer. So, if you've always wanted to know how tunnels and bridges are built, just ask!\nIn her free time, Teresa enjoys spending time outdoors (mainly admiring rocks), hiking, and cooking.",
+   "photo": "img/speakers/079610ca-036c-4828-b943-47d53ac78ce5.jpg",
+   "url": "https://2026.goatmire.com/speaker/teresa-lopes"
+  },
+  "0dbe1454-1509-4dcb-9137-023aeb07d6a3": {
+   "id": "0dbe1454-1509-4dcb-9137-023aeb07d6a3",
+   "name": "Quinn Wilton",
+   "tagline": "Maas-Neotek",
+   "bio": "Quinn has been writing Elixir since just about the language's beginning, and speaking about it for nearly as long.\n\nFrom Datalog to CRDTs and niche type systems, she's spent most of her time exploring the weird and sometimes forgotten ideas from computer science that offer glimpses of a future where code is written using the tools that have always seemed just barely out of our reach.",
+   "photo": "img/speakers/0dbe1454-1509-4dcb-9137-023aeb07d6a3.jpg",
+   "url": "https://2026.goatmire.com/speaker/quinn-wilton"
+  },
+  "102634fe-0293-4d0c-b7a1-14498a9caa44": {
+   "id": "102634fe-0293-4d0c-b7a1-14498a9caa44",
+   "name": "Johan Mattisson",
+   "tagline": "Simplicity. This is the way.",
+   "bio": "Johan Mattisson is a seasoned software developer, entrepreneur, and founder of 111 Solutions and QSimbo. With decades of experience across startups, consultancy, and large-scale systems, he has seen firsthand how complexity can either empower or cripple a project. At Goatmire Elixir, Johan will share lessons on sustainable software development, drawing from his experiences in building and scaling systems. His passion lies in keeping software simple, readable, and maintainable for the long haul.",
+   "photo": "img/speakers/102634fe-0293-4d0c-b7a1-14498a9caa44.png",
+   "url": "https://2026.goatmire.com/speaker/johan-mattisson"
+  },
+  "1f191ef0-692a-4ab0-9a9f-3eca291441ec": {
+   "id": "1f191ef0-692a-4ab0-9a9f-3eca291441ec",
+   "name": "Kuba Pryc",
+   "tagline": "Membrane Framework Maintainer",
+   "bio": "I'm one of the maintainers of Membrane Framework ecosystem at Software Mansion. Membrane is an Elixir framework for multimedia streaming and processing and. I really enjoy the open-source nature of my work - cooperating with contributors, listening to users' feedback and generally interacting with the community. I am a strong advocate for open-source software and open standards, which are the cornerstones of modern software. Outside of the digital sphere I'm really passionate about biology - ecology, paleontology and evolutionary biology in particular. In my spare time I like to hike and watch creatures of the wild, especially birds and bugs.",
+   "photo": "img/speakers/1f191ef0-692a-4ab0-9a9f-3eca291441ec.jpg",
+   "url": "https://2026.goatmire.com/speaker/kuba-pryc"
+  },
+  "2138a8ac-fb0d-4ed4-9dcd-1aab06b10108": {
+   "id": "2138a8ac-fb0d-4ed4-9dcd-1aab06b10108",
+   "name": "Frank Hunleth",
+   "tagline": "Nerves core team",
+   "bio": "Frank Hunleth is an embedded systems programmer, OSS maintainer, and Nerves core team member. At his day job, he uses Elixir and Nerves at SmartRent, a company that provides smart home automation for rental properties. When not in front of a computer, he loves running and spending time with his family.",
+   "photo": "img/speakers/2138a8ac-fb0d-4ed4-9dcd-1aab06b10108.jpg",
+   "url": "https://2026.goatmire.com/speaker/frank-hunleth"
+  },
+  "225be731-514c-4458-b997-b864c141709b": {
+   "id": "225be731-514c-4458-b997-b864c141709b",
+   "name": "Alvise Susmel",
+   "tagline": "Director of Vision, Driver Technologies",
+   "bio": "Alvise Susmel works on computer vision and machine learning for the automotive and self-driving space, after a background in fintech building data pipelines and trading models. He is the founder of Poeticoding and Head of ML Engineering at Driver Technologies, where he builds applied ML systems focused on large-scale dashcam data, vision, and retrieval.",
+   "photo": "img/speakers/225be731-514c-4458-b997-b864c141709b.jpg",
+   "url": "https://2026.goatmire.com/speaker/alvise-susmel"
+  },
+  "370c8db4-1b4f-42a0-bf42-76f35f6df7e6": {
+   "id": "370c8db4-1b4f-42a0-bf42-76f35f6df7e6",
+   "name": "Parker Selbert",
+   "tagline": "Oban Core Team",
+   "bio": "Parker Selbert is a developer with a passion for building things both virtual and physical. Inspired by his wife's entrepreneurial spirit, he co-founded the consultancy Soren with her in 2008. Since 2020 he has developed and supported Oban and Oban Pro, a job orchestration framework for Elixir...and now Python.",
+   "photo": "img/speakers/370c8db4-1b4f-42a0-bf42-76f35f6df7e6.jpg",
+   "url": "https://2026.goatmire.com/speaker/parker-selbert"
+  },
+  "3fc9f36e-b524-492b-9ff9-068c75ef67fd": {
+   "id": "3fc9f36e-b524-492b-9ff9-068c75ef67fd",
+   "name": "Josh Price",
+   "tagline": "CEO and Founder at Alembic",
+   "bio": "Josh Price is a polyglot software developer and technology consultant based in Sydney, Australia.\n\nHe's passionate about modern approaches to Software Development and helping teams build amazing software faster with better tooling.\n \nHe also founded Alembic, a consultancy building ambitious applications to generate better business outcomes.",
+   "photo": "img/speakers/3fc9f36e-b524-492b-9ff9-068c75ef67fd.jpg",
+   "url": "https://2026.goatmire.com/speaker/josh-price"
+  },
+  "4272c1e3-2bda-4864-9478-25a8747c0614": {
+   "id": "4272c1e3-2bda-4864-9478-25a8747c0614",
+   "name": "Bart Blast",
+   "tagline": "Creator of Hologram",
+   "bio": "Bart is the creator of Hologram, a framework that brings the joy of Elixir to frontend development. With over 20 years of experience building web applications, he's passionate about making web development more intuitive and efficient. Based in Warsaw, Poland, he focuses on evolving Hologram to help developers build rich web applications using pure Elixir, proving that frontend development doesn't have to be complicated.",
+   "photo": "img/speakers/4272c1e3-2bda-4864-9478-25a8747c0614.jpg",
+   "url": "https://2026.goatmire.com/speaker/bart-blast"
+  },
+  "4cc2eca2-51d0-46cd-89d0-cd14fbdef126": {
+   "id": "4cc2eca2-51d0-46cd-89d0-cd14fbdef126",
+   "name": "Mateusz Słuszniak",
+   "tagline": "Software Developer at Software Mansion",
+   "bio": "I am a Software Developer at Software Mansion, currently specializing in Machine Learning across the Elixir (Nx) and React Native ecosystems. Previously, I worked at Dashbit, where I developed Scholar, a library for traditional machine learning built on top of Nx. My technical passion lies in high-performance computing and optimizing low-level C++ code.\n\nOutside of programming, I enjoy arthouse cinema and film analysis, playing contract bridge, and traveling.",
+   "photo": "img/speakers/4cc2eca2-51d0-46cd-89d0-cd14fbdef126.jpg",
+   "url": "https://2026.goatmire.com/speaker/mateusz-sluszniak"
+  },
+  "4dfe65f8-5455-4c7c-a131-d01c6556d4a8": {
+   "id": "4dfe65f8-5455-4c7c-a131-d01c6556d4a8",
+   "name": "Stefan Fochler",
+   "tagline": "Building Scalable Systems",
+   "bio": "- Coding since 2005\n- ❤️ Elixir since 2014",
+   "photo": "img/speakers/4dfe65f8-5455-4c7c-a131-d01c6556d4a8.jpg",
+   "url": "https://2026.goatmire.com/speaker/stefan-fochler"
+  },
+  "4fdd79a8-a5df-420b-9c59-7cf8d95602eb": {
+   "id": "4fdd79a8-a5df-420b-9c59-7cf8d95602eb",
+   "name": "Bruce Tate",
+   "tagline": "Founder of Groxio, The Bob Ross of Elixir",
+   "bio": "Bruce Tate is a kayaker, climber, programmer and father of two from Chattanooga, Tennessee. A serial entrepreneur, he has helped start three companies, and most recently served as CTO for icanmakeitbetter. The author of more than a dozen books is active in the Elixir community as a speaker, author, editor and conference organizer. His love for teaching and computer languages led him to found Groxio in 2018.",
+   "photo": "img/speakers/4fdd79a8-a5df-420b-9c59-7cf8d95602eb.jpg",
+   "url": "https://2026.goatmire.com/speaker/bruce-tate"
+  },
+  "53b2a370-2071-4ec8-a5a4-b15832f0882c": {
+   "id": "53b2a370-2071-4ec8-a5a4-b15832f0882c",
+   "name": "Gus Workman",
+   "tagline": "Founder of Protolux Electronics, Nerves core team",
+   "bio": "Gus is the founder of Protolux Electronics, a Luxembourg-based company specializing in hardware and software for embedded systems built with Nerves. Previously, he worked at Samsung Research in new product development. \n\nHe built the open source board Trellis, the previous Goatmire name badge based on it and is currently working on the official Nerves Starter Kit.",
+   "photo": "img/speakers/53b2a370-2071-4ec8-a5a4-b15832f0882c.jpg",
+   "url": "https://2026.goatmire.com/speaker/gus-workman"
+  },
+  "55be53d2-74b2-493b-9c9c-a7819a34d159": {
+   "id": "55be53d2-74b2-493b-9c9c-a7819a34d159",
+   "name": "Daniel Raniz Raneland",
+   "tagline": "Sourceror @ factor10",
+   "bio": "Raniz is a programmer, architect, speaker and coach at factor10. He is a problem solver who keeps track of the bigger picture. He is prestigeless, likes to get into new domains, and loves sharing knowledge and ideas. Raniz has worked with system- and software architecture at several companies since 2010 and has been with factor10 since 2021. When not working he's into beer brewing, sourdough bread, 3D printing and triathlons.",
+   "photo": "img/speakers/55be53d2-74b2-493b-9c9c-a7819a34d159.jpg",
+   "url": "https://2026.goatmire.com/speaker/daniel-raniz-raneland"
+  },
+  "55d995bc-b09e-4a5d-82c0-253d54666ca7": {
+   "id": "55d995bc-b09e-4a5d-82c0-253d54666ca7",
+   "name": "Evadne Wu",
+   "tagline": "Bodgemaster at Heart / Programmer at Large",
+   "bio": "• Creator of Etso, Packmatic, Shun, etc\n• Elixir Community Member\n\nThe speaker has extensive experience in Elixir programming and contributes to the OSS ecosystem from time to time.",
+   "photo": "img/speakers/55d995bc-b09e-4a5d-82c0-253d54666ca7.jpg",
+   "url": "https://2026.goatmire.com/speaker/evadne-wu"
+  },
+  "645ee0fa-6587-4f72-81a8-8a707f44f837": {
+   "id": "645ee0fa-6587-4f72-81a8-8a707f44f837",
+   "name": "Aaron Seigo",
+   "tagline": "Open source developer; Principal Engineer at Esri",
+   "bio": "A thirty-year veteran of the tech industry, Aaron has been working with Elixir for nearly a decade. His work experience includes Nokia, Esri, various startups, and the Linux and KDE open source communities.",
+   "photo": "img/speakers/645ee0fa-6587-4f72-81a8-8a707f44f837.jpg",
+   "url": "https://2026.goatmire.com/speaker/aaron-seigo"
+  },
+  "6631ccda-70a7-4a31-ac2b-86e3a12a3e04": {
+   "id": "6631ccda-70a7-4a31-ac2b-86e3a12a3e04",
+   "name": "Julian Köpke",
+   "tagline": "Software Engineer at DENPAFLUX",
+   "bio": "Julian is a polyglot programmer who has started programming in the early 2000s. He built software for the web, mobile and embedded devices. Originating from an education heavily dominated by Java, he moved on from OOP after picking up Elixir in 2022. Now, he is developing applications for electrical engineers at DENPAFLUX with Elixir and Rust.\n\nWhen not at a computer, Julian is learning Swedish and enjoys being in nature going hiking and camping.",
+   "photo": "img/speakers/6631ccda-70a7-4a31-ac2b-86e3a12a3e04.jpg",
+   "url": "https://2026.goatmire.com/speaker/julian-kopke"
+  },
+  "6dc8eaaf-adc0-4ad1-8ff7-6d6bc20044f1": {
+   "id": "6dc8eaaf-adc0-4ad1-8ff7-6d6bc20044f1",
+   "name": "Ellie Fairholm",
+   "tagline": "Author and Co-Company Director of BEAMOps Software Consultancy",
+   "bio": "Ellie Fairholm is a full stack developer on the path to becoming a solutions architect. She excels at communication and believes that no topic is too difficult to learn. She is deeply passionate about making technology available to all, especially to those often underrepresented in the industry. She currently lives in the UK and is committed to working on projects that will one day change the world.",
+   "photo": "img/speakers/6dc8eaaf-adc0-4ad1-8ff7-6d6bc20044f1.png",
+   "url": "https://2026.goatmire.com/speaker/ellie-fairholm"
+  },
+  "78f6a9bf-9130-427f-baa4-7fbed2a62b8b": {
+   "id": "78f6a9bf-9130-427f-baa4-7fbed2a62b8b",
+   "name": "Josep Lluis Giralt D'Lacoste",
+   "tagline": "Co-director and Principal Consultant at BEAMOps Software Consultancy",
+   "bio": "Josep is one of the directors of BEAMOps Software Consultancy. He takes a hands-on approach to simplifying BEAM projects and ensuring lasting sustainability by involving the whole team. He has been working with Elixir for 10 years and helped set up the Elixir Meetup in his home town of Barcelona. He now lives in the UK and is on a mission to empower developers and revolutionize the way technical teams operate.",
+   "photo": "img/speakers/78f6a9bf-9130-427f-baa4-7fbed2a62b8b.jpg",
+   "url": "https://2026.goatmire.com/speaker/josep-lluis-giralt-dlacoste"
+  },
+  "79a87e6c-733a-40ec-abe7-5a4207bf4194": {
+   "id": "79a87e6c-733a-40ec-abe7-5a4207bf4194",
+   "name": "Rebecca Le",
+   "tagline": "Lead software engineer at Alembic",
+   "bio": "Rebecca Le is a software developer, member of the Ash core team, and co-author of the Ash Framework book. She is also the creator  of the Cinder data table library, with more interesting things to come. \n\nWhen not writing code she watches way too much cricket, does epic cross-stitch, and is a servant of several cats.",
+   "photo": "img/speakers/79a87e6c-733a-40ec-abe7-5a4207bf4194.jpg",
+   "url": "https://2026.goatmire.com/speaker/rebecca-le"
+  },
+  "7d0ebbc5-4678-42ce-97d5-4214affb758f": {
+   "id": "7d0ebbc5-4678-42ce-97d5-4214affb758f",
+   "name": "Shannon Selbert",
+   "tagline": "Oban Core Team",
+   "bio": "Shannon Selbert is an aspiring polyglot, programmer, product manager, and contract law enthusiast (really!). After a stint doing technical training for the government, her entrepreneurial spirit led her to co-found Soren in 2008. She consulted for over a decade and  transitioned to the development of Oban, and Oban Pro for the Elixir (and Python) ecosystems.",
+   "photo": "img/speakers/7d0ebbc5-4678-42ce-97d5-4214affb758f.jpg",
+   "url": "https://2026.goatmire.com/speaker/shannon-selbert"
+  },
+  "7f9dbddf-9d3d-453f-8e9d-5afd669311ac": {
+   "id": "7f9dbddf-9d3d-453f-8e9d-5afd669311ac",
+   "name": "Matthias Reik",
+   "tagline": "Head of Software Development Tesco, Founder of JEMS Solutions Kft,",
+   "bio": "Matthias is an Electrical Engineer by education with more than 20 years of software development experience (>10 years mobile creating a mobile operating system, >10years big distributed systems) working in various roles: researcher, developer, architect, engineering manager, consultant, … . Responsible for systems in production, worked even with undocumented/untested legacy systems (hacked toghether over 10years) and brought them back from the dead.\nCurrently helping to build up Tesco's new development site in Budapest which is growing rapidly\n\nHe llikes to think outside the box and learn from completely unrelated domains. For example, long before Docker appeared (~2002), he was fascinated by how Industrial Container Ships are standardized and operated and thought that we should operate software the same way. He see parallels between Information Theory and how we communicate which explains why our communication often breaks down even before considering psychological effects (He gave a talk about it in Feb 2018)\n\nHe was a reviewer of the book “37 Things One Architect Knows About IT Transformation” by Gregor Hohpe.\n\nHe likes to collect and share ideas. He resonates with the idea of journeyman years. So far he visited more than 30 different countries, lived in 6 of them, and speak 5 languages (apart from computing languages, otherwise that number would be much higher). He believes in constant learning and direct human interaction, but avoids to leave too many social media traces.",
+   "photo": "img/speakers/7f9dbddf-9d3d-453f-8e9d-5afd669311ac.jpg",
+   "url": "https://2026.goatmire.com/speaker/matthias-reik"
+  },
+  "82f5c380-4155-4bac-9239-c3dd5b5d9161": {
+   "id": "82f5c380-4155-4bac-9239-c3dd5b5d9161",
+   "name": "Nelson Vides",
+   "tagline": "Self-taught programmer",
+   "bio": "Nelson is a child of a multicultural journey. Born in Venezuela to a family of engineers and economists, he grew up in Spain to study pure maths in university and moved to Poland to become a self-taught programmer. After a few years as a C developer in security/telecommunication domains, he's now a BEAM evangelist with an emphasis on performance and security. In his free time he's a sports addict, practising yoga and callisthenics, and also a history fanboy, devouring books every night.",
+   "photo": "img/speakers/82f5c380-4155-4bac-9239-c3dd5b5d9161.jpg",
+   "url": "https://2026.goatmire.com/speaker/nelson-vides"
+  },
+  "83c9707e-018d-4333-8e76-8b090b64ed1d": {
+   "id": "83c9707e-018d-4333-8e76-8b090b64ed1d",
+   "name": "Kamila Pokój",
+   "tagline": "Gleam Core Team",
+   "bio": "Senior Marketing Manager at Erlang Solutions by day, the non-tech part of Gleam Core Team by night. Claims that bullying tech people into accepting marketing into their hearts is her love language.",
+   "photo": "img/speakers/83c9707e-018d-4333-8e76-8b090b64ed1d.png",
+   "url": "https://2026.goatmire.com/speaker/kamila-pokoj"
+  },
+  "93a6417a-08b3-42cb-a11b-7bc6679a56f1": {
+   "id": "93a6417a-08b3-42cb-a11b-7bc6679a56f1",
+   "name": "Conor Sinclair",
+   "tagline": "Tech Lead, Alembic",
+   "bio": "Conor is a Tech Lead at Alembic. After years of React and TypeScript across startups and scaleups, he found his way to Elixir and now works deep in the Ash ecosystem, drawn to problems at the edge of the declarative model: durable workflows, codegen, and increasingly the UI layer itself.\n\nHe spoke at ElixirConf EU 2025 on driving LLMs from Elixir, and is particularly interested in how the new wave of AI coding tools, paired with Ash's declarative core, lets small teams ship surprisingly ambitious software at a frankly unreasonable pace.",
+   "photo": "img/speakers/93a6417a-08b3-42cb-a11b-7bc6679a56f1.jpg",
+   "url": "https://2026.goatmire.com/speaker/conor-sinclair"
+  },
+  "968fd679-28c2-492b-9792-8e2caf23a03b": {
+   "id": "968fd679-28c2-492b-9792-8e2caf23a03b",
+   "name": "Feliks Pobiedziński",
+   "tagline": "Membrane Framework Contributor",
+   "bio": "Software Developer in Software Mansion, where I contribute to the Membrane Framework ecosystem, focusing on Membrane Core and Boombox. My experience includes implementing HLS and WebRTC in Elixir, as well as developing Unifex and Bundlex—tools for integrating Elixir with C and C++ code.\n\nBeyond my professional life, I study psychology, prepare for triathlon and learn spanish. Fan of spending time in mountains, Camino de Santiago and martial arts.",
+   "photo": "img/speakers/968fd679-28c2-492b-9792-8e2caf23a03b.jpg",
+   "url": "https://2026.goatmire.com/speaker/feliks-pobiedzinski"
+  },
+  "9b8bc7be-db0d-4fb0-b280-c7ab3b86a374": {
+   "id": "9b8bc7be-db0d-4fb0-b280-c7ab3b86a374",
+   "name": "Jon Carstens",
+   "tagline": "Nerves core team",
+   "bio": "Frying things one piece of hardware at a time",
+   "photo": "img/speakers/9b8bc7be-db0d-4fb0-b280-c7ab3b86a374.jpg",
+   "url": "https://2026.goatmire.com/speaker/jon-carstens"
+  },
+  "a0cb6776-70e8-4a4f-9bc4-0521c3184f52": {
+   "id": "a0cb6776-70e8-4a4f-9bc4-0521c3184f52",
+   "name": "Marta Habdas",
+   "tagline": "Full-stack Developer at Curiosum",
+   "bio": "Full-stack Developer at Curiosum, working on web applications in React and Elixir. PhD, Institute of Audiovisual Arts, Jagiellonian University, Kraków. Outside of her professional work, she has always been interested in combining technology and the arts/humanities, with a recent focus on hardware hacking and DIY electronics.",
+   "photo": "img/speakers/a0cb6776-70e8-4a4f-9bc4-0521c3184f52.jpg",
+   "url": "https://2026.goatmire.com/speaker/marta-habdas"
+  },
+  "a14e65a5-7fc5-46b4-b15f-04aa6bbbbfa0": {
+   "id": "a14e65a5-7fc5-46b4-b15f-04aa6bbbbfa0",
+   "name": "Sam Aaron",
+   "tagline": "Creator of Sonic Pi",
+   "bio": "Dr Sam Aaron is the creator of Sonic Pi, an internationally renowned live coding performer, public speaker and science communicator.  Sam has a PhD in Computer Science and held a research position at the University of Cambridge Computer Laboratory where he initially developed Sonic Pi.\n\nSam regularly engages audiences of all ages and backgrounds with the creativity of code by delivering keynotes, workshops and performances. He has live coded internationally featuring in the Royal Albert Hall, Berlin Warehouses, Science Fairs, on the BBC and school assemblies. The Rolling Stone magazine described Sam’s Moogfest performance as “transcending the present”",
+   "photo": "img/speakers/a14e65a5-7fc5-46b4-b15f-04aa6bbbbfa0.jpg",
+   "url": "https://2026.goatmire.com/speaker/sam-aaron"
+  },
+  "a644f74b-4673-4368-9915-7d64854bcad9": {
+   "id": "a644f74b-4673-4368-9915-7d64854bcad9",
+   "name": "James Harton",
+   "tagline": "Elixir, Robots and Declarative Design",
+   "bio": "James Harton is a Principal Engineer at Alembic, creator of Beam Bots, and Ash core team member. He is the author of Reactor, Ash Authentication, and many other libraries in the Elixir ecosystem. Based in New Zealand, James has been building with Elixir for over a decade and has a particular interest in embedded systems and Nerves. When not writing Elixir, he's probably soldering something.",
+   "photo": "img/speakers/a644f74b-4673-4368-9915-7d64854bcad9.jpg",
+   "url": "https://2026.goatmire.com/speaker/james-harton"
+  },
+  "aec90945-a65f-458c-b1a8-bfe078a64aa3": {
+   "id": "aec90945-a65f-458c-b1a8-bfe078a64aa3",
+   "name": "Davide Bettio",
+   "tagline": "Creator of AtomVM",
+   "bio": "Davide Bettio is a long-time open source enthusiast.  Passionate about embedded systems since high school, he also contributed early on to KDE. In 2017, he created AtomVM to run Elixir and Erlang on tiny microcontrollers with only a few kilobytes of RAM. Today, he is working full-time on AtomVM. When he’s not coding, Davide enjoys hiking in the Alps.",
+   "photo": "img/speakers/aec90945-a65f-458c-b1a8-bfe078a64aa3.jpg",
+   "url": "https://2026.goatmire.com/speaker/davide-bettio"
+  },
+  "b301111f-63d0-4c35-b5dd-440d849de37b": {
+   "id": "b301111f-63d0-4c35-b5dd-440d849de37b",
+   "name": "Tobias Bohwalli",
+   "tagline": "Developer",
+   "bio": "Started my web career in 1999 during the dot-com era. Studied at Chalmers University of Technology. Cut my teeth on PHP and Perl -- the pre-framework days of gluing PEAR libraries together. Moved to Ruby on Rails, then like many others found elegance in Elixir. For the past 11 years I've been at myDevices as a frontend developer working with React.",
+   "photo": "img/speakers/b301111f-63d0-4c35-b5dd-440d849de37b.png",
+   "url": "https://2026.goatmire.com/speaker/tobias-bohwalli"
+  },
+  "bf267e6b-5863-460d-aff6-f7a0d587dc18": {
+   "id": "bf267e6b-5863-460d-aff6-f7a0d587dc18",
+   "name": "Peter Ullrich",
+   "tagline": "Senior Software Engineer",
+   "bio": "I'm a Senior Elixir developer with a Psychology background, PragProg Author, Public Speaker and Blogger, and Founder. I'm passionate about Software Architecture, Product Engineering, and sharing knowledge. Loves Sport, Music, and Dad Jokes.",
+   "photo": "img/speakers/bf267e6b-5863-460d-aff6-f7a0d587dc18.jpg",
+   "url": "https://2026.goatmire.com/speaker/peter-ullrich"
+  },
+  "c3d7237c-53f0-4b66-b774-93a9e0bf0c97": {
+   "id": "c3d7237c-53f0-4b66-b774-93a9e0bf0c97",
+   "name": "Robert Carbone",
+   "tagline": "Erlang Architect, Designer & Accountant",
+   "bio": "Robert Carbone has always had an affinity for keyboards - acoustic & digital. Fluent in music theory, graphic design and armed with a Masters of Accountancy, his passion lies in the valuation of intangibles, more specifically, analyzing & graphically representing them in conceptual frameworks.\n\nHis journey to develop wearable tech led him to Erlang, GUI programming, Distributed Applications & Databases(particularly Riak). When he isn't being an evangelist for Erlang or coding, you will find him longboarding around a city, snagging a disc(frisbee) or composing, at a keyboard.",
+   "photo": "img/speakers/c3d7237c-53f0-4b66-b774-93a9e0bf0c97.png",
+   "url": "https://2026.goatmire.com/speaker/robert-carbone"
+  },
+  "c519eda7-637c-48d6-b511-7a5f39b6b600": {
+   "id": "c519eda7-637c-48d6-b511-7a5f39b6b600",
+   "name": "Daniil Popov",
+   "tagline": "Head of Tech @ CyanView",
+   "bio": "Elixir agency runner, Senior Software Engineer with over a decade of experience in technology leadership and software development. \nAs a contributor to CyanView's broadcast technology platform, we built Elixir real-time systems that power major live events.",
+   "photo": "img/speakers/c519eda7-637c-48d6-b511-7a5f39b6b600.jpg",
+   "url": "https://2026.goatmire.com/speaker/daniil-popov"
+  },
+  "cb713244-4ece-4f15-b7ac-2f8579f01406": {
+   "id": "cb713244-4ece-4f15-b7ac-2f8579f01406",
+   "name": "Damir Batinović",
+   "tagline": "Tinkerer: Mostly Software, Not Afraid of Solder",
+   "bio": "Tinkering is kind of my thing. If something looks fun, can be taken apart, tweaked, or messed with, chances are it's never going back together in its original form (Warning: results may vary). Tinkering led me to FP and suddenly I'm decade into Elixir, more recently also Nerves.",
+   "photo": "img/speakers/cb713244-4ece-4f15-b7ac-2f8579f01406.jpg",
+   "url": "https://2026.goatmire.com/speaker/damir-batinovic"
+  },
+  "cb892b73-e772-4d15-9e75-7a16caefb06a": {
+   "id": "cb892b73-e772-4d15-9e75-7a16caefb06a",
+   "name": "Benjamin Milde",
+   "tagline": "@lostkobrakai",
+   "bio": "Not the classic programmer career. Started learning programming while still in school to build websites. Studied media design instead of IT to not need to deal with low level hardware/software. When Websites grew into larger services, I eventually found Elixir and haven't looked back since.",
+   "photo": "img/speakers/cb892b73-e772-4d15-9e75-7a16caefb06a.jpg",
+   "url": "https://2026.goatmire.com/speaker/benjamin-milde"
+  },
+  "dde5d0e3-ce29-4b3c-b4e4-1bc0ae059423": {
+   "id": "dde5d0e3-ce29-4b3c-b4e4-1bc0ae059423",
+   "name": "Marc Lainez",
+   "tagline": "Owner & Co-founder at Spin42",
+   "bio": "Marc is an experienced software developer and product manager. He started Spin42 with Loïc Vigneron and Thibault Poncelet in 2013 after several years freelancing. Together, they have built Ibanity in 2016, a financial institution aggregator written in Elixir that was sold in 2017. They have been working on Ibanity and other related products until the end of 2023 and are now tinkering and searching for new challenges. Marc has been an invited teacher at the university of Louvain-la-Neuve in Belgium for 10 years where he introduces students in their third bachelor year to Agile software development practices.",
+   "photo": "img/speakers/dde5d0e3-ce29-4b3c-b4e4-1bc0ae059423.jpg",
+   "url": "https://2026.goatmire.com/speaker/marc-lainez"
+  },
+  "e64e72e2-92ce-4980-88dd-f64440afa988": {
+   "id": "e64e72e2-92ce-4980-88dd-f64440afa988",
+   "name": "Erik Hansen",
+   "tagline": "Maersk, Senior Engineering Manager",
+   "bio": "Erik Mejer Hansen is a senior engineering leader with a background in software development and a passion for building strong, collaborative teams. With over 15 years of hands-on coding experience and close to a decade in leadership roles, he focuses on creating environments where developers thrive and deliver great software. Today, he leads a team of wonderful engineers on Maersk’s Energy Transition platform, supporting the company’s ambition to reach net-zero emissions by 2040.",
+   "photo": "img/speakers/e64e72e2-92ce-4980-88dd-f64440afa988.jpg",
+   "url": "https://2026.goatmire.com/speaker/erik-hansen"
+  },
+  "e8d5d51d-7c19-4524-984f-df6d48cc2955": {
+   "id": "e8d5d51d-7c19-4524-984f-df6d48cc2955",
+   "name": "Sahil Pohare",
+   "tagline": "Just a curious guy building stuff for fun.",
+   "bio": "Started coding when I was 9. Started off with unity and unreal, started with doing IPFS and Libp2p, then some frontend work, then led a couple of AI startup teams taking one of them to \n$0 ->$10Mil+, then failed a couple of my own startups. (https://skyfernai.com and pingerchips.com)\nEx-PRINCIPAL Engineer if you wanna be formal. And decided to move to half way across the world for my masters.\n\nPioneered \"Building on peanuts\", a radical engineering philosophy where you build products on shoestring budgets and never crossing $200 mark. [I host my entire infra in my kitchen.](https://shorturl.at/mHdQ6)\n\nRecently got into Elixir. But overall, just a chill dude who loves hacking. Currently doing my Master's in Comp Sci at Maynooth University.\n\nFunfact, I was one people who had access to beta for GPT 3, a couple years before it went mainstream.",
+   "photo": "img/speakers/e8d5d51d-7c19-4524-984f-df6d48cc2955.jpg",
+   "url": "https://2026.goatmire.com/speaker/sahil-pohare"
+  },
+  "e8e6fdc6-f5ac-4402-b1f2-39b027c88e00": {
+   "id": "e8e6fdc6-f5ac-4402-b1f2-39b027c88e00",
+   "name": "Oliver Mulelid-Tynes",
+   "tagline": "Founder & Chief Slop Officer of FSI Evolution AS",
+   "bio": "Oliver has been coding in Elixir since before the release of Phoenix and enjoys himself as much down in the trenches slinging code as in a C-level role setting strategic goals.\n\nCurrently he has spent the last half year or so building out a full noric competitor to Shopify mostly on his own stretching the limits of AI assisted engineering.",
+   "photo": "img/speakers/e8e6fdc6-f5ac-4402-b1f2-39b027c88e00.jpg",
+   "url": "https://2026.goatmire.com/speaker/oliver-mulelid-tynes"
+  },
+  "ebd6ff87-a4f9-4e04-a52e-02db96052781": {
+   "id": "ebd6ff87-a4f9-4e04-a52e-02db96052781",
+   "name": "Bryan Hunter",
+   "tagline": "Builder of distributed systems in Elixir",
+   "bio": "Bryan Hunter is the Global CTO of Hopper Healthcare. He has decades of experience building fault-tolerant, safety critical, distributed systems in healthcare and other regulated environments. In 2012 he founded Nashville Functional Programmers (NashFP). He enjoys supporting FP communities around the world and has shared his experience at conferences and universities in London, Manila, Oslo, Bangalore, and throughout the United States.",
+   "photo": "img/speakers/ebd6ff87-a4f9-4e04-a52e-02db96052781.png",
+   "url": "https://2026.goatmire.com/speaker/bryan-hunter"
+  },
+  "ecc10311-ee74-4cb3-9202-3bb408933419": {
+   "id": "ecc10311-ee74-4cb3-9202-3bb408933419",
+   "name": "Łukasz Kita",
+   "tagline": "Software Engineer @ Software Mansion",
+   "bio": "Łukasz is a Software Engineer specializing in multimedia processing, working on the Membrane Framework at Software Mansion in Kraków. Fuelled by an insatiable passion for software development never shies away from diving into its theoretical fundamentals. A devoted fan of the functional paradigm.\nTreats RFC documents and ITU standards as if they were riveting novels (not exactly, he might be just kidding now). On a personal front, Łukasz is an avid appreciator of painting and architecture, and when not in the digital realm, chances are he's taking on mountains as an alpine tourism enthusiast.",
+   "photo": "img/speakers/ecc10311-ee74-4cb3-9202-3bb408933419.png",
+   "url": "https://2026.goatmire.com/speaker/lukasz-kita"
+  },
+  "edd2f2fe-bf46-4063-8bb1-01dec2d168ab": {
+   "id": "edd2f2fe-bf46-4063-8bb1-01dec2d168ab",
+   "name": "Zach Daniel",
+   "tagline": "Creator of Ash Framework",
+   "bio": "Zach is a software engineer and leader with ~13 years of experience with production Elixir applications, building large and ambitious software, and scaling software teams. He is the creator of Ash Framework, a resource-oriented declarative design framework for Elixir, and VP of Engineering at Remedy Meds. He has a passion for declarative design, functional programming, and contributing to the open source community. When not programming, he enjoys spending time with his wonderful wife, pets, friends and family.",
+   "photo": "img/speakers/edd2f2fe-bf46-4063-8bb1-01dec2d168ab.jpg",
+   "url": "https://2026.goatmire.com/speaker/zach-daniel"
+  },
+  "f16e6c46-9b14-456a-a8ae-2fadf9fe1f49": {
+   "id": "f16e6c46-9b14-456a-a8ae-2fadf9fe1f49",
+   "name": "Kevin Schweikert",
+   "tagline": "Software Engineer",
+   "bio": "I am a German software engineer at Intermediate Engineering GmbH where I write Elixir to power big screen media installations. I've studied media technology at the University of Applied Sciences in Hamburg. A combination that lets me bring the media and software world closer together.\nOff-screen, I also tinker with Elixir and I'm a firm believer in open source software. And every Sunday I'm in pursuit of the perfect Neapolitan pizza. 🍕",
+   "photo": "img/speakers/f16e6c46-9b14-456a-a8ae-2fadf9fe1f49.jpg",
+   "url": "https://2026.goatmire.com/speaker/kevin-schweikert"
+  },
+  "f6a97ba1-50fa-4614-8582-66a3a64dff5b": {
+   "id": "f6a97ba1-50fa-4614-8582-66a3a64dff5b",
+   "name": "Tim Jarratt",
+   "tagline": "Lead Engineer, Energy Transition, Maersk",
+   "bio": "Tim Jarratt is a walking contradiction. Californian by birth, he grew up on an island but never learned how to swim nor drive (how he managed to escape remains a mystery).\n\nAcross twenty years of experience, he's held a variety of roles (director of engineering, lead engineer, chief metaphor officer, to name a few). What keeps him interested and motivated in tech is the human element - pair programming, test-driven development, and a stubborn insistence that we can build better software for our users if we only tried things that seem impossible.\n\nAfter a decade sweating in Silicon Valley he moved to Paris, France, where he lives with his family and two cats.",
+   "photo": "img/speakers/f6a97ba1-50fa-4614-8582-66a3a64dff5b.png",
+   "url": "https://2026.goatmire.com/speaker/tim-jarratt"
+  },
+  "f854351f-591c-4a06-bd41-fa84cb3c8784": {
+   "id": "f854351f-591c-4a06-bd41-fa84cb3c8784",
+   "name": "Barnabas Jovanovics",
+   "tagline": "Software Engineer, Ash Core Team member",
+   "bio": "Electrician -> Automation Engineer -> Software Engineer\nAsh Core Team since 2023",
+   "photo": "img/speakers/f854351f-591c-4a06-bd41-fa84cb3c8784.jpg",
+   "url": "https://2026.goatmire.com/speaker/barnabas-jovanovics"
+  }
+ }
+}

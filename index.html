@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>Goatmire Schedule</title>
+    <meta name="description" content="Goatmire Elixir & NervesConf EU 2026 schedule. Works offline." />
+    <meta name="theme-color" content="#0b0f0e" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Goatmire" />
+    <link rel="manifest" href="manifest.webmanifest" />
+    <link rel="icon" type="image/png" sizes="32x32" href="icons/icon-32.png" />
+    <link rel="apple-touch-icon" href="icons/icon-180.png" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="top">
+      <img class="logo" src="img/goatmire.jpg" alt="Goatmire" width="1200" height="421" />
+      <div class="actions">
+        <button id="search-btn" class="icon-btn" aria-label="Search" aria-expanded="false">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7" /><path d="m20 20-3.5-3.5" /></svg>
+        </button>
+        <button id="now-btn" class="icon-btn text" aria-label="Scroll to current time" hidden>NOW</button>
+        <button id="info-btn" class="icon-btn" aria-label="About this app">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9" /><path d="M12 11v6M12 7.5v.5" /></svg>
+        </button>
+      </div>
+    </header>
+    <div id="search-bar" class="search-bar" hidden>
+      <input id="search" type="search" placeholder="Search talks, speakers, venues…" autocomplete="off" enterkeyhint="search" />
+    </div>
+    <nav id="days" class="days" aria-label="Days"></nav>
+    <main id="main"><p class="empty">Loading schedule…</p></main>
+
+    <dialog id="sheet" class="sheet" aria-label="Session details"></dialog>
+    <dialog id="info" class="sheet" aria-label="About"></dialog>
+
+    <noscript><p class="empty">This app needs JavaScript.</p></noscript>
+    <script src="app.js"></script>
+  </body>
+</html>
