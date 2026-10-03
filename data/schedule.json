@@ -1434,16 +1434,188 @@
      "url": null
     },
     {
-     "id": "bfb6dd61-db89-432c-8a40-fdbdc5a03066",
+     "id": "ashconf-2026-01",
      "service": true,
-     "title": "AshConf 2026",
+     "title": "Registration & Welcome",
      "room": "83583",
-     "start": "10:00",
-     "end": "17:00",
-     "startUtc": "2026-10-03T08:00:00Z",
-     "endUtc": "2026-10-03T15:00:00Z",
+     "start": "09:45",
+     "end": "10:15",
+     "startUtc": "2026-10-03T07:45:00Z",
+     "endUtc": "2026-10-03T08:15:00Z",
      "speakers": [],
      "tags": [],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "ashconf-2026-02",
+     "service": false,
+     "title": "Opening Keynote: Adoption of Ash in a Mature & Complex Codebase",
+     "room": "83583",
+     "start": "10:15",
+     "end": "11:00",
+     "startUtc": "2026-10-03T08:15:00Z",
+     "endUtc": "2026-10-03T09:00:00Z",
+     "speakers": [
+      "ashconf-aj-jetha"
+     ],
+     "tags": [
+      "AshConf"
+     ],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "ashconf-2026-03",
+     "service": false,
+     "title": "When Time Meets State",
+     "room": "83583",
+     "start": "11:00",
+     "end": "11:30",
+     "startUtc": "2026-10-03T09:00:00Z",
+     "endUtc": "2026-10-03T09:30:00Z",
+     "speakers": [
+      "93a6417a-08b3-42cb-a11b-7bc6679a56f1"
+     ],
+     "tags": [
+      "AshConf"
+     ],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "ashconf-2026-04",
+     "service": false,
+     "title": "Ash Typescript",
+     "room": "83583",
+     "start": "11:30",
+     "end": "12:00",
+     "startUtc": "2026-10-03T09:30:00Z",
+     "endUtc": "2026-10-03T10:00:00Z",
+     "speakers": [
+      "ashconf-torkild-kjevik"
+     ],
+     "tags": [
+      "AshConf"
+     ],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "ashconf-2026-05",
+     "service": true,
+     "title": "Networking Lunch",
+     "room": "83583",
+     "start": "12:00",
+     "end": "13:00",
+     "startUtc": "2026-10-03T10:00:00Z",
+     "endUtc": "2026-10-03T11:00:00Z",
+     "speakers": [],
+     "tags": [],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "ashconf-2026-06",
+     "service": false,
+     "title": "Designing Human-Computer Interactions with Ash",
+     "room": "83583",
+     "start": "13:00",
+     "end": "13:30",
+     "startUtc": "2026-10-03T11:00:00Z",
+     "endUtc": "2026-10-03T11:30:00Z",
+     "speakers": [
+      "ashconf-alex-slade"
+     ],
+     "tags": [
+      "AshConf"
+     ],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "ashconf-2026-07",
+     "service": false,
+     "title": "AshRemote + AshMultiDataLayer",
+     "room": "83583",
+     "start": "13:30",
+     "end": "14:00",
+     "startUtc": "2026-10-03T11:30:00Z",
+     "endUtc": "2026-10-03T12:00:00Z",
+     "speakers": [
+      "f854351f-591c-4a06-bd41-fa84cb3c8784"
+     ],
+     "tags": [
+      "AshConf"
+     ],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "ashconf-2026-08",
+     "service": true,
+     "title": "Break",
+     "room": "83583",
+     "start": "14:00",
+     "end": "14:30",
+     "startUtc": "2026-10-03T12:00:00Z",
+     "endUtc": "2026-10-03T12:30:00Z",
+     "speakers": [],
+     "tags": [],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "ashconf-2026-09",
+     "service": false,
+     "title": "Paging Before the Customer Notices: Declarative Business Metrics",
+     "room": "83583",
+     "start": "14:30",
+     "end": "15:00",
+     "startUtc": "2026-10-03T12:30:00Z",
+     "endUtc": "2026-10-03T13:00:00Z",
+     "speakers": [
+      "ashconf-maciej-matecki"
+     ],
+     "tags": [
+      "AshConf"
+     ],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "ashconf-2026-10",
+     "service": false,
+     "title": "Precision Domain Modeling",
+     "room": "83583",
+     "start": "15:00",
+     "end": "15:30",
+     "startUtc": "2026-10-03T13:00:00Z",
+     "endUtc": "2026-10-03T13:30:00Z",
+     "speakers": [
+      "3fc9f36e-b524-492b-9ff9-068c75ef67fd"
+     ],
+     "tags": [
+      "AshConf"
+     ],
+     "description": "",
+     "url": null
+    },
+    {
+     "id": "ashconf-2026-11",
+     "service": false,
+     "title": "Closing Remarks",
+     "room": "83583",
+     "start": "15:30",
+     "end": "16:00",
+     "startUtc": "2026-10-03T13:30:00Z",
+     "endUtc": "2026-10-03T14:00:00Z",
+     "speakers": [
+      "edd2f2fe-bf46-4063-8bb1-01dec2d168ab"
+     ],
+     "tags": [
+      "AshConf"
+     ],
      "description": "",
      "url": null
     }
@@ -1827,6 +1999,38 @@
    "bio": "Electrician -> Automation Engineer -> Software Engineer\nAsh Core Team since 2023",
    "photo": "img/speakers/f854351f-591c-4a06-bd41-fa84cb3c8784.jpg",
    "url": "https://2026.goatmire.com/speaker/barnabas-jovanovics"
+  },
+  "ashconf-aj-jetha": {
+   "id": "ashconf-aj-jetha",
+   "name": "AJ Jetha",
+   "tagline": "",
+   "bio": "",
+   "photo": null,
+   "url": null
+  },
+  "ashconf-torkild-kjevik": {
+   "id": "ashconf-torkild-kjevik",
+   "name": "Torkild Kjevik",
+   "tagline": "",
+   "bio": "",
+   "photo": null,
+   "url": null
+  },
+  "ashconf-alex-slade": {
+   "id": "ashconf-alex-slade",
+   "name": "Alex Slade",
+   "tagline": "",
+   "bio": "",
+   "photo": null,
+   "url": null
+  },
+  "ashconf-maciej-matecki": {
+   "id": "ashconf-maciej-matecki",
+   "name": "Maciej Matecki",
+   "tagline": "",
+   "bio": "",
+   "photo": null,
+   "url": null
   }
  }
 }
