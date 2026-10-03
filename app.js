@@ -419,7 +419,12 @@ async function start() {
   selectDay(dates.includes(today) ? today : today > dates.at(-1) ? dates.at(-1) : dates[0]);
 
   setInterval(updateNow, 30_000);
-  document.addEventListener('visibilitychange', () => document.visibilityState === 'visible' && updateNow());
+  // iOS resumes installed apps without reloading, so ask the worker to check for a new schedule
+  document.addEventListener('visibilitychange', () => {
+    if (document.visibilityState !== 'visible') return;
+    updateNow();
+    fetchData().catch(() => {});
+  });
 }
 
 if ('serviceWorker' in navigator) {

@@ -2,7 +2,7 @@
 
 // Everything is served cache-first and refreshed in the background, so the app
 // opens instantly and offline; a new version shows up on the launch after next.
-const CACHE = 'goatmire-v1';
+const CACHE = 'goatmire-v2';
 const SCHEDULE = 'data/schedule.json';
 const SHELL = [
   './',
