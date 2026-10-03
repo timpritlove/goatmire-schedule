@@ -49,16 +49,17 @@ self.addEventListener('activate', (event) => {
 });
 
 async function refresh(cache, request, cached) {
+  const isSchedule = new URL(request.url).pathname.endsWith(SCHEDULE);
+  // clone synchronously: once the cached response is handed to the page its body is used up
+  const before = isSchedule && cached ? cached.clone().text() : null;
   const response = await fetch(request, { cache: 'no-cache' });
   if (!response.ok) return response;
-  const isSchedule = new URL(request.url).pathname.endsWith(SCHEDULE);
-  const before = isSchedule && cached ? await cached.clone().text() : null;
   await cache.put(request, response.clone());
   if (isSchedule) {
     const text = await response.clone().text();
-    if (text !== before) {
+    if (text !== (await before)) {
       await cachePhotos(cache, JSON.parse(text));
-      if (before !== null) {
+      if (cached) {
         const clients = await self.clients.matchAll();
         clients.forEach((client) => client.postMessage('schedule-updated'));
       }
